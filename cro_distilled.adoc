@@ -1,0 +1,2352 @@
+= Conversion Rate Optimization (CRO) Distilled
+:imagesdir: ./images
+:experimental:
+:icons: image
+:icontype: svg
+:toc:
+
+Marcus Schappi <marcus@chickcom.com>
+
+<<<
+
+== About
+
+👋 Hi I'm Marcus, I'm an ecommerce merchant like you, and run several Shopify stores.
+My team and I built link:https:/www.koi.app?ref=conversations[Koi.app] to help us manage our stores and we're now making it available to other merchants.
+
+This guide is for ecommerce merchants who want to increase their conversion rates and sales.
+
+I've summarised watched hours of YouTube videos on Conversion Rate Optimization (CRO) and distilled the key points into this document
+so that you can quickly get up to speed on the topic.
+
+You can learn more xref:about-koi[] at the end of this guide.
+
+<<<
+
+== Distilled Advice
+
+TIP: This distilled advice is a summary of the key points in this guide. It's a great place to start if you're short on time. You can always come back and read the full guide later.
+
+Conversion Rate Optimization (CRO) distilled into key tips:
+
+1. **Audit and Analyze Your Website:**
+  ** Conduct thorough audits of existing conversion rates, traffic sources, and funnel drop-offs.
+  ** Aim for specific metrics: Add to Cart ratio above 10%, Checkout to Purchase conversion around 70%, and store conversion rates of 1.5-3%.
+2. **Optimize Product and Landing Pages:**
+** Create dedicated and congruent landing pages for each ad.
+** Emphasize product benefits, incorporate upsells, and provide clear, compelling content.
+** Use high-quality images and detailed descriptions to showcase products.
+3. **Enhance User Experience:**
+  ** Streamline the checkout process for ease and efficiency.
+  ** Implement tools for heatmaps, user behavior analytics, and testimonials.
+4. **Utilize Email Marketing:**
+  ** Implement strategies to recover abandoned carts and engage customers through email marketing.
+5. **Continuously Improve through Data and Testing:**
+  ** Leverage data analytics and A/B testing for ongoing improvement.
+  ** Understand your market, focus on a single mass-market desire, and avoid generic approaches.
+6. **Provide Excellent Customer Support:**
+  ** Offer clear refund policies, warranties, and accessible support options.
+7. **Showcase Trust and Credibility:**
+  ** Use social proof like customer reviews, trust badges, and certifications.
+8. **Improve Website Technical Aspects:**
+  ** Ensure fast loading times, professional design, and avoid over-reliance on stock photos.
+9. **Use Psychological Triggers:**
+  ** Implement the bandwagon effect, scarcity, authority, and reciprocity to influence customer behavior.
+10. **Develop a Compelling Narrative:**
+  ** Build a unique and engaging story around your products, highlighting the primary benefits first.
+  ** Incorporate elements such as a rediscovery of an ancient recipe or a unique narrative to create intrigue.
+11. **Focus on User-Friendly Design:**
+  ** Optimize navigation, use clear CTAs, and ensure mobile compatibility.
+  ** Keep your website's design simple and intuitive, with a focus on product-focused layouts.
+12. **Leverage Social Proof and Credibility:**
+  ** Display customer reviews, awards, and certifications prominently.
+  ** Use storytelling and customer testimonials to build trust and authenticity.
+13. **Address the Checkout Process:**
+  ** Streamline the checkout experience to reduce abandonment rates.
+  ** Offer multiple payment options and use trust signals to enhance credibility.
+14. **Improve Site Speed and Navigation:**
+  ** Ensure your website loads quickly and is easy to navigate.
+  ** Use high-quality images and optimize them for web performance.
+15. **Optimize for Different Customer Segments:**
+  ** Create tailored experiences for different types of customers.
+  ** Use dynamic content and personalization techniques to cater to individual needs.
+16. **Apply A/B Testing and Data Analysis:**
+  ** Regularly test different elements of your website to see what works best.
+  ** Use data-driven insights to inform CRO strategies.
+17. **Include Clear Calls to Action:**
+  ** Ensure that CTAs are assertive, clear, and guide the user towards the desired action.
+18. **Utilize Effective Marketing Strategies:**
+  ** Employ email marketing, SMS lists, and lead capture tactics.
+  ** Use upsell, cross-sell, and downsell strategies effectively.
+19. **Provide Value and Incentives:**
+  ** Offer something extra like free shipping or discounts at certain thresholds.
+  ** Focus on showing the value of your products and services.
+20. **Understand and Address Customer Pain Points:**
+  ** Clearly articulate how your products solve specific problems.
+  ** Focus on benefits rather than just features.
+21. **Utilize Tools and Resources Effectively:**
+  ** Employ tools like Google Analytics, heat mapping software, and A/B testing platforms.
+  ** Consider professional mentorship or consultancy for specialized advice.
+22. **Regularly Update and Refresh Content:**
+  ** Keep your website and its content up-to-date to maintain relevance and engagement.
+  ** Refresh stale content and align your site with current design trends.
+23. **Employ Psychological Triggers:**
+  ** Utilize strategies like FOMO, authority endorsements, and the bandwagon effect to boost conversions.
+24. **Focus on High-Quality Content:**
+  ** Use well-crafted copy, engaging videos, and high-resolution images to showcase products.
+25. **Implement Cross-Selling and Upselling:**
+  ** Suggest related items or premium options to increase average order value.
+
+By integrating these strategies, you can optimize your e-commerce site's conversion rate, turning more visitors into customers and enhancing overall profitability.
+
+<<<
+
+
+== Website Audit and Analysis
+=== Auditing Your Website
+
+Auditing your website for conversion rate analysis is important for several key reasons:
+
+1. **Identifying Performance Issues**: By analyzing conversion rates, you can pinpoint areas where your website may be underperforming. This could be due to a range of factors such as poor user experience, unclear call-to-actions, slow loading times, or ineffective landing pages.
+2. **Understanding User Behavior**: Conversion rate analysis helps you understand how users interact with your website. You can determine which pages are most effective in driving conversions and which ones might be causing users to drop off.
+3. **Enhancing User Experience**: With insights from conversion rate analysis, you can make informed decisions to improve the user experience. This might involve simplifying the checkout process, optimizing page layouts, or making navigation more intuitive.
+4. **Boosting Return on Investment (ROI)**: By improving areas that negatively impact your conversion rates, you can increase the ROI of your marketing efforts. Higher conversion rates typically mean more effective use of your advertising budget and better overall financial performance.
+5. **Data-Driven Decision Making**: Conversion rate analysis provides concrete data that can guide your marketing and website design decisions. This data-driven approach ensures that changes and optimizations are based on actual user behavior and performance metrics rather than assumptions.
+6. **Tailoring Marketing Strategies**: Understanding your conversion rates can help in segmenting your audience and tailoring your marketing strategies accordingly. Different user segments may have different conversion behaviors, and this insight allows for more targeted and effective marketing.
+7. **Competitive Analysis**: Knowing your conversion rates and how they stack up against industry benchmarks or competitors gives you a competitive edge. It helps in identifying areas where you can improve and strategies that might give you an advantage in the marketplace.
+8. **Long-Term Growth**: Regularly auditing and analyzing your website for conversion rate effectiveness is key to long-term business growth. It helps in continuously improving the website and adapting to changing user preferences and market trends.
+
+Analysing conversion rates is a vital aspect of website management and digital marketing.
+It provides essential insights that can lead to substantial enhancements in user experience, the effectiveness of marketing, and overall business success.
+
+==== Determining existing conversion rates
+
+Conversion rates are shown on your Shopify dashboard, but you can also use Google Analytics to determine your conversion rates.
+
+.Conversion rate shown on the Shopify dashboard.
+image::SCR-20240104-kffi.png["Conversion rate shown on the Shopify dashboard"]
+
+The conversation rate is the percentage of visitors who complete a purchase on your store. The conversion rate is shown on the top right of the Shopify dashboard.
+Shopify also  provide a nice summary of your conversion rate on the Analytics page.
+
+You can access this by clicking on the btn:[Analytics]
+
+.Online store conversion rate card.
+image::SCR-20240104-koim.png["Online store conversion rate card"]
+
+==== Identifying your traffic sources
+
+Shopify provides a breakdown of your traffic sources, including organic search, direct traffic, social media, and paid ads.
+
+You can access this by clicking on the btn:[Analytics], then btn:[Reports] and btn:[Sessions by referrer].
+
+.Accessing the Sessions by referrer report.
+image::SCR-20240104-knbf.png["Accessing the Sessions by referrer report"]
+
+==== Analyzing your funnel
+
+"Analysing your funnel" for a Shopify store to optimise conversion rates involves a multi-step process. The funnel in e-commerce typically refers to the customer journey from the moment they land on your store to the point they make a purchase. Here's how you can analyse and optimise this funnel:
+
+1. *Understanding the Funnel Stages:* First, identify the stages in your Shopify store's sales funnel. Common stages include homepage visit, product page view, adding a product to the cart, initiating checkout, and completing a purchase.
+
+The "Top landing pages by sessions card" will give you a quick overview of the top landing pages on your store.
+
+.Top landing pages by sessions card.
+image::SCR-20240104-krds.png["Top landing pages by sessions card"]
+
+For a more detailed analysis, you can access the "Sessions by landing page" report.
+
+The "Sessions by landing page" report in the Shopify Analytics section can help you understand where customers are entering your store.
+
+.Sessions by landing page.
+image::SCR-20240104-ktag.png["Sessions by landing page"]
+
+You really want to pay attention to the pages with the highest bounce rate.
+
+===== What is a bounce rate?
+
+A bounce rate is the percentage of visitors who leave your website without taking any action. A high bounce rate indicates that visitors are not engaging with your content or products.
+
+IMPORTANT: It is important to distinguish between whether the customer is falling out of your funnel by not adding a product to the cart or whether they are leaving your store after adding a product to the cart.
+
+===== What does a customer not adding to cart tell you?
+
+When a customer browses your Shopify store but does not add any items to the cart, it can indicate several potential issues or areas for improvement. Understanding these can help in optimising your store's performance. Here are some possibilities:
+
+1. **Product Appeal**: The products might not be appealing enough to the visitors. This could be due to a variety of factors like pricing, perceived value, or product assortment. It's important to consider if your products align well with your target audience's preferences and needs.
+2. **Product Information**: Lack of detailed or clear information about the products can deter customers from adding items to the cart. This includes high-quality images, comprehensive descriptions, specifications, and customer reviews.
+3. **Website Design and User Experience**: A poorly designed website or a complicated navigation can lead to customer frustration. If your website is not intuitive, visually appealing, or easy to navigate, customers might lose interest before adding products to their cart.
+4. **Pricing and Perceived Value**: If your pricing is not competitive or does not reflect the perceived value of the products, customers may be hesitant to proceed with a purchase.
++
+TIP: Look at your competitors and see what they are charging for similar products.
+5. **Trust and Credibility Issues**: New or lesser-known online stores may need to work harder to build trust. Lack of trust badges, secure payment options, and customer testimonials can impact the decision to add items to the cart.
+6. **Market Competition**: Customers might be comparing prices or options on other sites. If competitors offer better deals, free shipping, or other benefits, customers might choose not to add items to your cart.
+7. **Technical Issues**: Technical glitches or issues with the website's performance, like slow loading times, can prevent customers from adding items to their cart.
+8. **Mobile Responsiveness**: With the increasing use of mobile devices for online shopping, if your website is not optimised for mobile use, it can negatively impact the shopping experience.
+9. **Lack of Urgency or Incentives**: Sometimes, customers need an extra push. Lack of urgency-creating elements (like limited-time offers) or incentives (like discounts or free shipping) can result in lower add-to-cart rates.
+10. **Target Audience Mismatch**: Your marketing efforts might be attracting the wrong audience. If visitors to your site are not your target customers, they are less likely to find products that suit their needs.
+
+===== What does a customer not competing checkout tell you?
+
+When a customer reaches the checkout stage but does not complete the purchase, it indicates specific obstacles or deterrents in the final stages of the buying process. Analysing these reasons is crucial for optimising the checkout experience and improving conversion rates. Common reasons for not completing checkout include:
+
+1. **Unexpected Costs**: Additional costs that appear at checkout, like shipping fees, taxes, or handling charges, can be a major deterrent. Customers often abandon their carts if the final price is significantly higher than expected.
+2. **Complicated Checkout Process**: A long or complex checkout process can frustrate customers. This includes too many fields to fill out, confusing navigation, or a lack of clear instructions.
+3. **Lack of Preferred Payment Options**: If customers don't find their preferred method of payment, they may hesitate to complete the purchase. Offering a variety of payment options, including digital wallets and popular local methods, can help.
+4. **Security Concerns**: Online shoppers are increasingly aware of data security. If your site doesn't clearly display security badges or if the payment gateway doesn’t seem secure, customers might not be comfortable providing their payment details.
+5. **Technical Issues**: Glitches such as crashes, slow loading times, or errors during the checkout process can lead to abandonment.
+6. **Account Creation Requirements**: Forcing customers to create an account before purchasing can be a barrier. Offering a guest checkout option can help alleviate this issue.
+7. **Insufficient Information**: Lack of information regarding delivery times, return policies, and warranty can make customers hesitant to complete the purchase.
+8. **Mobile Responsiveness**: A checkout process that is not optimised for mobile devices can lead to difficulties in completing the transaction, especially given the increasing prevalence of mobile commerce.
+9. **Lack of Customer Support**: If customers have last-minute questions or concerns, the absence of readily available customer support (like live chat) can be a hindrance.
+10. **Distractions or Change of Mind**: Sometimes, external factors like distractions or a simple change of mind can lead to cart abandonment.
+
+== Enhancing User Experience
+=== Streamlining the checkout process
+
+Streamlining the checkout process in a Shopify store is crucial for improving customer experience and increasing conversion rates. A smooth, fast, and user-friendly checkout can significantly reduce cart abandonment. Here are steps to streamline the checkout process:
+
+1. **Simplify Checkout Steps**: Reduce the number of steps required to complete a purchase. Aim for a one-page checkout where possible, allowing customers to quickly review and submit their orders.
+2. **Enable Guest Checkout**: Allow customers to check out without creating an account. This can speed up the process and reduce friction for first-time buyers or those in a hurry.
+3. **Optimise for Mobile Users**: Ensure that the checkout process is fully optimised for mobile devices. A significant portion of online shopping is done on mobile, so a smooth mobile checkout experience is essential.
+4. **Offer Multiple Payment Options**: Include various payment methods, such as credit cards, PayPal, Apple Pay, Google Pay, and other popular methods in your region. This flexibility can cater to the preferences of more customers.
+5. **Use Autofill and Saved Information**: Implement autofill for returning customers and allow users to save their information for future purchases. This reduces the time and effort needed to enter shipping and billing details.
+6. **Clearly Display All Costs Upfront**: Be transparent about all costs, including taxes, shipping fees, and any other charges. Unexpected costs at checkout are a leading cause of cart abandonment.
+7. **Provide Security Reassurances**: Display security badges and use SSL certificates to reassure customers that their personal and payment information is safe.
+8. **Streamline Form Fields**: Limit the number of form fields and only ask for necessary information. Use predictive input and validation to help users fill out forms more efficiently.
+9. **Offer Real-Time Support**: Include options for real-time support, such as live chat, to assist customers who have questions or face issues during checkout.
+10. **Implement Error Handling and Guidance**: Ensure that any errors in the checkout process are clearly communicated with suggestions for how to resolve them. For example, if a customer enters an invalid credit card number, the error message should be specific and helpful.
+11. **Analyse and Test Checkout Flow**: Regularly review analytics to identify where customers are dropping off. Use A/B testing to try different layouts, copy, and designs to see what works best.
+12. **Localise the Checkout Experience**: If you have an international customer base, consider localising the checkout experience with language options and local currency.
+13. **Use Exit-Intent Offers**: Implement exit-intent technology to display a message or offer when a user is about to leave the checkout page, which can help bring them back into the purchase process.
+
+=== Optimizing navigation
+
+Optimising navigation on your Shopify store is crucial for enhancing user experience and improving conversion rates. A well-structured, intuitive navigation setup can significantly impact how easily customers find products and make purchases. Here are strategies to optimise your store's navigation:
+
+1. **Clear and Concise Menu Structure**: Your main menu should be straightforward and easy to understand. Limit the number of top-level categories to prevent overcrowding and confusion. Use sub-categories to organise products logically.
+2. **Use Familiar Navigation Patterns**: Stick to navigation patterns that users are familiar with, like a horizontal menu at the top or a hamburger menu for mobile sites. This helps users navigate your store intuitively.
+3. **Responsive Design for Mobile Users**: Ensure that your navigation is fully responsive and functions smoothly on mobile devices. With a significant portion of online shopping happening on mobile, a good mobile navigation experience is crucial.
+4. **Effective Use of the Search Function**: Implement a robust search feature, preferably with autocomplete and error tolerance, to help users find products quickly. Consider placing the search bar in a prominent position.
+5. **Breadcrumb Navigation**: Use breadcrumb navigation on product pages to help users keep track of their location within your store and easily navigate back to previous sections.
+6. **Highlight Popular or New Products**: Create categories or menu items for new arrivals, bestsellers, or currently trending products. This can guide customers towards products they are more likely to purchase.
+7. **Optimise for Speed**: Ensure that your navigation, along with the rest of your site, loads quickly. Slow navigation can frustrate users and lead to higher bounce rates.
+8. **Use Clear and Descriptive Labels**: Avoid vague labels for your menu items. Use clear and descriptive terms that immediately tell the user what to expect in each category.
+9. **Implement Mega Menus for Large Inventories**: If you have a wide range of products, consider using mega menus. These allow customers to see more options at a glance without overwhelming them.
+10. **Test and Iterate**: Use A/B testing to try different navigation structures and see which performs better in terms of user engagement and conversion rates.
+11. **Simplify Dropdown Menus**: If using dropdown menus, keep them simple and avoid multi-level dropdowns that can be difficult to navigate, especially on mobile devices.
+12. **Use Visual Cues**: Incorporate visual cues like icons or images in your menu to help users navigate more intuitively.
+13. **Categorise Intelligently**: Group your products in a way that makes sense for your target audience. Understand how they shop and what categories are most meaningful to them.
+14. **Highlight Promotions and Specials**: If you have ongoing promotions or special deals, make them easily accessible through your main navigation.
+15. **Accessibility Considerations**: Ensure that your navigation is accessible to all users, including those with disabilities. This includes keyboard navigation and screen reader compatibility.
+
+By focusing on these aspects, you can create a more user-friendly navigation system that not only enhances the shopping experience but also encourages customers to explore more products, ultimately leading to higher conversion rates. Remember, the goal is to make it as easy as possible for customers to find what they're looking for and make a purchase.
+
+=== Using clear CTAs (Calls to Action)
+
+Creating clear CTAs (Calls to Action) on Shopify product pages is essential for improving customer engagement and boosting conversions. Here are some effective tips for crafting CTAs that stand out:
+
+**Use Action-Oriented Language**: Your CTA should inspire action. Use verbs like 'Buy', 'Shop', 'Order', 'Discover', or 'Get Started'. This creates a sense of urgency and action.
+[options="header"]
+|=======================
+| CTA Verb     | Reasoning Behind CTA Verb                | How It Creates Urgency and Action
+| Buy          | Direct and to the point; implies a straightforward action of purchase. | Indicates an immediate opportunity to acquire something desirable.
+| Shop         | Invokes the idea of browsing and selecting items, engaging customers in the shopping experience. | Suggests an active, ongoing process that the customer can join right now.
+| Order        | Conveys a sense of finality and completion in the purchasing process. | Implies prompt action leading to the satisfaction of receiving the product.
+| Discover     | Encourages exploration and finding something new or beneficial. | Creates curiosity and the urge to uncover what’s available or on offer.
+| Get Started  | Implies the beginning of a journey or experience with the product or service. | Suggests an immediate initiation into something valuable or beneficial.
+| Save         | Highlights the benefit of cost-saving or obtaining a deal. | Creates a sense of financial urgency and the fear of missing out on savings.
+| Join         | Suggests becoming part of a community or group, enhancing the sense of belonging. | Imparts a sense of exclusivity and time-sensitivity to be part of something.
+| Subscribe    | Indicates a continued relationship or ongoing access to products or services. | Promotes a sense of long-term benefits that can be missed if not acted upon quickly.
+| Learn More   | Offers additional information, appealing to the customer’s curiosity and desire for knowledge. | Creates an urge to act to gain understanding or insight.
+| See More     | Invites further exploration of products or information. | Encourages immediate action to explore and uncover more options or details.
+| Claim        | Suggests ownership and entitlement, making the offer more personal. | Generates a sense of personal opportunity and limited availability.
+| Try Now      | Offers a risk-free way to experience the product or service immediately. | Imparts a sense of immediacy and the chance to experience something without delay.
+|=======================
+
+**Be Concise and Clear**: The message in your CTA should be straightforward and easy to understand. Avoid jargon or overly complex language.
+
+.Unclear CTA:
+[quote]
+Proceed to the next step to maybe consider the possibility of potentially acquiring our unique product if you feel like it might be something that could benefit you at some point in time.
+
+Issues with the Unclear CTA:
+
+* **Too Long and Wordy**: The CTA is overly verbose, making it confusing and less impactful.
+* **Indecisive Language**: Phrases like "maybe consider" and "potentially" make the CTA sound hesitant and non-committal.
+* **Lacks Urgency and Directness**: The language used does not encourage immediate action or decisiveness.
+
+.Improved CTA:
+[quote]
+Buy Now and Enjoy Immediate Benefits!
+
+Improvements Made:
+
+* **Concise:** The CTA is shortened to a simple, direct phrase.
+* **Action-Oriented:** Using "Buy Now" clearly states the action that needs to be taken.
+* **Benefits Highlighted:** Mentioning "Immediate Benefits" provides a compelling reason for the customer to take action.
+
+The improved CTA cuts through the ambiguity and gets straight to the point, making it far more effective in guiding the customer towards a specific action.
+
+**Contrasting Colours**: The CTA button should stand out on your page. Use colours that contrast with your site’s colour scheme, but still complement the overall design.
+
+**Strategic Placement**: Place your CTA button in an area where it’s easily seen without scrolling too much (above the fold). Also, consider placing it near relevant product information or at the end of compelling product descriptions.
+
+**Size Matters**: The button should be large enough to be noticed but not so large that it overwhelms other content. Balance is key.
+
+**Clear Value Proposition**: Highlight the benefit of clicking the CTA. For instance, “Get Your Free Trial” is more appealing than just “Click Here”.
+
+**Create a Sense of Urgency**: Phrases like "Limited Offer", "Sale Ends Soon", or "While Stocks Last" can motivate customers to act promptly.
+
+**Test Different Versions**: A/B testing different CTA buttons can help you understand what works best with your audience. Experiment with different colours, placements, and wording.
+
+**Mobile Optimisation**: Ensure your CTA is easily clickable and looks good on mobile devices. A large number of online shoppers use mobile phones, so mobile optimisation is crucial.
+
+**Use Supporting Elements**: Sometimes, a small text below the CTA, like 'No credit card required' or 'Free Shipping', can provide an extra nudge to the user.
+
+**Consistent Branding**: Ensure that your CTA aligns with your brand’s voice and tone. Consistency across your site helps build trust and recognition.
+
+**Feedback on Interaction**: Consider adding a subtle animation or colour change when someone hovers over or clicks the CTA. This provides immediate feedback that something is happening.
+
+By implementing these tips, you can create CTAs on your Shopify product pages that are not only attention-grabbing but also effectively guide your customers towards making a purchase. Remember, the goal is to make the shopping experience seamless and inviting, encouraging customers to take the next step without feeling pressured.
+
+==== Ensuring mobile compatibility
+
+Ensuring mobile compatibility in an e-commerce store is crucial these days for several key reasons:
+
+1. **Increasing Mobile Traffic**: A significant and growing portion of internet traffic comes from mobile devices. Many customers browse and shop primarily through their smartphones or tablets. If your e-commerce store isn't optimised for mobile, you risk losing a large segment of potential customers.
+2. **Enhanced User Experience**: Mobile compatibility ensures a positive and seamless shopping experience for users on mobile devices. Sites that are difficult to navigate on a phone or tablet can frustrate users, leading to higher bounce rates and lost sales.
+3. **Improved Search Engine Rankings**: Search engines like Google favour mobile-friendly websites in their search results. This is particularly important after Google's mobile-first indexing update, where the mobile version of content is primarily used for indexing and ranking.
+4. **Higher Conversion Rates**: Mobile-optimised websites typically have better conversion rates. A site that's easy to use on a smartphone can encourage more purchases, as users can shop conveniently from anywhere, at any time.
+5. **Social Media Integration**: With the increasing use of social media on mobile devices, having a mobile-compatible e-commerce store makes it easier to integrate with social media platforms. This can drive traffic from these platforms to your store.
+6. **Competitive Advantage**: As mobile shopping continues to grow, having a mobile-friendly site can give you a competitive edge. It shows that your business is modern and customer-focused, which can help in building brand loyalty.
+7. **Speed and Efficiency**: Mobile-optimised sites are usually designed to load faster, which is crucial for retaining customers. A slow-loading site can lead to impatience and potential customers abandoning their shopping carts.
+8. **Better Analytics and Tracking**: Mobile compatibility allows for more accurate tracking of user behaviour and preferences on mobile devices. This data is invaluable for tailoring your marketing strategies and improving the overall shopping experience.
+
+In summary, mobile compatibility in e-commerce is no longer just an option; it's a necessity for reaching and engaging the modern, mobile-centric consumer, enhancing user experience, and staying competitive in the digital marketplace.
+
+===== How to preview your website on mobile from your desktop
+
+You can preview the mobile version of your store in Chrome by opening the developer tools.
+
+On a Mac, you can do this by select menu:View[Developer > Developer Tools] or by pressing the keyboard
+shortcut kbd:[Ctrl+Shift+I] (Windows) or kbd:[Cmd+Opt+I] (Mac).
+
+.Opening Chrome developer tools
+image::SCR-20240104-lfwm.jpeg["Opening Chrome developer tools"]
+
+The developer tools will open either in a new window or in a panel at the bottom of the screen.
+You can toggle the device toolbar by clicking the icon highlighted below or by pressing the keyboard shortcutshortcut kbd:[Ctrl+Shift+M] (Windows) or kbd:[Cmd+Shift+M] (Mac).
+
+.Chrome developer tools opened
+image::SCR-20240104-ljae.png["Chrome developer tools opened"]
+
+You can then change the width and height of the viewport to preview your website on different devices.
+You can do this by dragging the handles on the viewport or by selecting a device from the dropdown menu.
+
+.Chrome developer tools device toolbar
+image::SCR-20240104-lkcb.jpeg["Chrome developer tools device toolbar"]
+
+.Mobile preview of Amazon
+image::SCR-20240104-lkth.png["Mobile preview of Amazon"]
+
+TIP: If the page doesn't initially load in mobile view, try refreshing the page.
+
+===== Things to look out for when previewing your website on mobile
+
+When previewing your Shopify website on mobile, it's crucial to ensure it's optimised for a seamless user experience. Mobile browsing has become increasingly popular, and a well-optimised mobile site can significantly impact customer engagement and sales. Here are key things to look out for:
+
+1. **Responsive Design**: Ensure your website automatically adjusts to fit the screen size of various devices. Text, images, and other elements should resize and reorganise to provide a smooth experience.
+2. **Loading Speed**: Mobile users expect quick loading times. Optimize images and minimise heavy scripts to ensure your site loads fast.
+3. **Navigation**: The navigation menu should be easy to access and use on a mobile device. Consider a hamburger menu (three horizontal lines) for a clean, efficient navigation experience.
+4. **Pop-Ups and Modals**: While pop-ups can be effective on desktops, they can be intrusive on mobile. If you use them, ensure they are easy to close and don't take up the entire screen.
+5. **Button Sizes and Placement**: Buttons should be large enough to be easily tapped on a small screen. Also, ensure they are placed conveniently, keeping in mind how users hold their phones.
+6. **Readability**: Font size and type should be mobile-friendly. Text should be easily readable without needing to zoom in.
+7. **Touch-Friendly Elements**: All interactive elements like links, buttons, and form fields should be easy to tap. Adequate spacing is crucial to prevent accidental taps.
+8. **Checkout Process**: Simplify the checkout process. Lengthy forms can be frustrating on mobile. Consider integrating mobile payment options like Apple Pay or Google Pay.
+9. **Image Quality and Size**: Ensure images are of high quality yet optimised to not slow down the page load time. Also, check that images are not cut off or improperly scaled.
+10. **Testing on Different Devices**: Test your website on various devices and browsers to ensure consistent performance and appearance.
+11. **Accessibility Features**: Include features for accessibility, like text-to-speech compatibility and adequate contrast ratios.
+12. **Search Functionality**: A readily accessible and efficient search bar is crucial for mobile users who want to find products quickly.
+13. **Social Media Integration**: Ensure social media buttons are accessible and functional, as mobile users are often connected to their social accounts.
+14. **Customer Support Access**: Consider including easily accessible chat support or a contact form for mobile users.
+
+By focusing on these aspects, you can ensure that your Shopify site provides a positive and efficient experience for mobile users, which is vital for retaining customers and encouraging sales in today's mobile-centric world.
+
+=== Chrome's Lighthouse
+
+Chrome's Lighthouse is an open-source, automated tool for improving the quality of web pages. It can audit your website for performance, accessibility, progressive web apps, SEO, and more. Using Lighthouse to audit your Shopify product page can provide valuable insights into how well the page performs on various metrics and suggest improvements.
+
+==== How to Use Chrome's Lighthouse to Audit Your Shopify Product Page:
+
+1. **Open Chrome Browser**: Lighthouse works as part of the Chrome Developer Tools, so you'll need to use the Chrome browser.
+2. **Navigate to Your Product Page**: Go to the specific product page on your Shopify store that you want to audit.
+3. **Open Chrome Developer Tools**:
+   **Right-click anywhere on the page and select "Inspect," or
+   **Use the shortcut kbd:[Ctrl+Shift+I] (Windows) or kbd:[Cmd+Opt+I] (Mac).
+4. **Access Lighthouse**: In the Developer Tools panel, find the “Lighthouse” tab. If it's not visible, you might need to click on the “>>” icon to reveal more tabs.
+5. **Configure Your Audit**:
+   ** You can choose the type of audit you want to run: Performance, Accessibility, Best Practices, SEO, and Progressive Web App.
+   ** Select “Mobile” or “Desktop” for device type, depending on what you want to focus on. For a Shopify product page, it's recommended to audit both.
+
+6. **Run the Audit**: Click on the “Generate report” button. Lighthouse will then audit the page and generate a report.
+
+7. **Review the Report**:
+   ** The report provides scores in each category. A score of 90-100 is considered good, 50-89 needs improvement, and below 50 is poor.
+   ** It also gives specific recommendations on what to improve, like image optimization, reducing JavaScript execution time, increasing accessibility, etc.
++
+.Example Chrome Lighthouse report
+image::SCR-20240105-okgv.png["Example Chrome Lighthouse report"]
+8. **Implement Suggestions**: Use the recommendations to optimize your Shopify product page. This might involve compressing images, leveraging browser caching, improving accessibility features, etc.
++
+Clicking on the "Performance" graph will take us to the recommendations for improving performance.
++
+.Click on the Performance Graph to go to the recommendations for improving performance
+image::SCR-20240105-okvv.png["Performance Graph"]
++
+If you scroll down the recommendations will be shown. Start from top to bottom.
++
+.Recommendations on how to improve performance
+image::SCR-20240105-olpr.png["Recommendations on how to improve performance"]
++
+Here are what these recommendations mean in lay terms:
+[cols="2", options="header"]
+|===
+| Diagnostic | Explanation in Layman's Terms
+
+| Largest Contentful Paint element
+| The time it takes for the main content (like a large image or text block) on a webpage to load and be visible to the user.
+
+| Properly size images
+| Adjusting image sizes to fit the display area can speed up loading times and save data.
+
+| Minimize main-thread work
+| Reducing the amount of processing the browser needs to do can make the site load faster and be more responsive.
+
+| Serve images in next-gen formats
+| Using newer image formats can make images load faster and look better.
+
+| Reduce unused JavaScript
+| Removing unnecessary JavaScript code can make the website load faster and run more smoothly.
+
+| Avoid an excessive DOM size
+| Keeping the webpage structure simpler (fewer elements) can improve performance and make the site easier to interact with.
+
+| Minify JavaScript
+| Compressing JavaScript files makes them smaller and faster to load.
+
+| Enable text compression
+| Compressing text-based resources (like HTML, CSS, JavaScript) can reduce loading times.
+
+| Preload Largest Contentful Paint image
+| Loading the largest image early on can improve the perceived load time of the site.
+
+| Serve static assets with an efficient cache policy
+| Storing parts of the website in the browser for future visits can make the site load faster.
+
+| Ensure text remains visible during webfont load
+| Displaying a fallback font while a custom font is loading to avoid invisible text.
+
+| Does not use passive listeners to improve scrolling performance
+| Using a specific type of event listener that can make scrolling smoother.
+
+| Image elements do not have explicit width and height
+| Setting width and height for images can help maintain layout during loading.
+
+| Defer offscreen images
+| Loading images only when they're about to be shown can save data and speed up page loading.
+
+| Reduce unused CSS
+| Removing unnecessary styles can make the page load faster and be easier to manage.
+
+| Efficiently encode images
+| Optimising image file sizes without losing quality can improve load times.
+
+| Avoid serving legacy JavaScript to modern browsers
+| Not sending outdated code to newer browsers can improve performance.
+
+| Page prevented back/forward cache restoration
+| The page has issues that prevent quick return visits using browser's back or forward buttons.
+
+| Avoid enormous network payloads
+| Keeping the total size of page resources smaller can make the site load faster and use less data.
+
+| JavaScript execution time
+| The time it takes for JavaScript to run. Faster execution can improve the overall performance.
+|===
+[start=9]
+. **Re-audit**: After making changes, run Lighthouse again to see the impact of your optimizations.
++
+Using Lighthouse as part of your regular website maintenance routine can significantly enhance the user experience and effectiveness of your Shopify product page, potentially leading to better engagement and sales.
+
+
+
+==== Keeping your website's design simple and intuitive
+
+Keeping your website's design simple and intuitive is crucial for ensuring a good user experience. A well-designed, straightforward website can greatly enhance usability and accessibility, encouraging visitors to stay longer and engage more with your content.  Here are some tips for achieving this:
+
+* **Minimalistic Design**: Adopt a clean and uncluttered layout. Use white space effectively to create a layout that lets your content breathe and draws attention to the most important elements.
+Pretty much all the themes on the Shopify theme store are well designed.
+
+.Shopify theme store
+image::SCR-20240104-lqiz.jpeg["Shopify theme store"]
+
+* **Consistent Branding:** Use consistent colors, fonts, and design elements that reflect your brand identity. This helps in creating a cohesive look and feel across all pages.
+* **Limit Color Use:** Use a limited color palette to avoid overwhelming users. Too many colors can be distracting and detract from your content. Choose one or two primary colors and one or two accent colors.
+* **Don't use Black:** This rule stems from the idea that pure black (#000000) can be too harsh and overwhelming in many design contexts, especially when used in large areas or as a background color.
+* **Readable Text Colours:** Select colours for your text that are readable. The goal is to ensure that text is easily legible against its background, regardless of the viewer's screen settings or visual impairments.
+There is a great tool https://colourcontrast.cc/ for checking the contrast ratio of text colours.
+
+.Colour Contrast Checker
+image::SCR-20240104-lsej.png["Colour Contrast Checker"]
+
+* **Readable Font Choices:** Choose fonts that are easy to read and size them appropriately for readability. Avoid using too many different fonts. Stick to one or two fonts to maintain a clean look.
+* **Simplify Content:** Break up text into manageable chunks. Use headings, subheadings, bullets, and lists to make information easy to scan and understand.
+* **Accessibility:** Make sure your website is accessible to all users, including those with disabilities. Use alt text for images, ensure keyboard navigability, and maintain a high contrast ratio for text.
+* **Avoid Unnecessary Elements:** Don’t add elements just for the sake of it. Every component on your page should have a clear purpose and add value to the user experience.
+
+=== Addressing the Checkout Process
+
+Generally the Shopify checkout process is pretty good, but there are a few things you can do to improve it.
+
+==== Streamlining the checkout experience
+
+You can help streamline the checkout experience by:
+
+* **Enabling the Shop Sales Channel**: This allows customers to check out directly on your Shopify store without being redirected to a third-party site.
+* **Offering Guest Checkout**: Allow customers to check out without creating an account. This can reduce friction for first-time buyers or those in a hurry.
+* **Using Cart Links**: Cart links allow customers to add items to their cart and go directly to checkout. This can help reduce the number of steps required to complete a purchase.
+
+==== Offering multiple payment options
+
+Offering multiple payment options on your Shopify store can enhance the shopping experience for your customers by providing them with flexibility and convenience. Here's how you can set up various payment methods:
+
+1. **Access Your Shopify Admin**: Log in to your Shopify admin panel.
+
+2. **Go to Payment Settings**:
+   ** Navigate to "Settings" at the bottom left of your Shopify admin.
+   ** Click on "Payments" to access payment settings.
+
+3. **Set Up Shopify Payments** (if available in your country):
+  ** Shopify Payments is Shopify's own payment processor, which allows you to accept a variety of payment methods including credit cards, Google Pay, and Apple Pay.
+  ** To enable it, click on “Complete account setup” under the Shopify Payments section and fill in the required details.
+
+4. **Add Third-Party Payment Providers**:
+   ** For payment options not covered by Shopify Payments, you can use third-party providers like PayPal, Stripe, Square, etc.
+   ** Under the “Third-party providers” section, click “Choose third-party provider” and select the provider you want to use.
+   ** Follow the prompts to add your account details for the chosen provider.
+
+5. **Enable Alternative Payment Methods**:
+   ** Shopify also supports alternative payment methods like cryptocurrency, buy now pay later services, and more.
+   ** Under the "Alternative payments" section, click “Add provider” and select the method you want to offer.
+   ** Enter any required information for the selected method.
+
+6. **Enable Manual Payment Methods**:
+   ** These include options like bank deposits, cash on delivery, and money orders.
+   ** In the “Manual payments” section, click “Add manual payment method” and select the method you want to add.
+   ** Provide instructions for customers on how to pay using this method.
+
+7. **Review and Test Your Payment Methods**:
+   ** After setting up your payment methods, review them to ensure all details are correct.
+   ** It’s a good idea to conduct test transactions to make sure everything is working as expected.
+
+8. **Inform Your Customers**:
+   ** Update your website to inform customers about the available payment options.
+   ** This can be done through your FAQ page, product pages, or at checkout.
+
+9. **Stay Compliant with Payment Regulations**:
+   ** Ensure that your payment methods comply with local and international regulations, including data security standards.
+
+10. **Regularly Update Payment Settings**:
+   ** Keep your payment methods up to date, and periodically review them to add new options or remove ones that are less popular with your customers.
+
+By diversifying the payment options on your store, you cater to a wider audience, reducing barriers to purchase, which can help in increasing your conversion rates and overall sales.
+
+== Content and Design Optimization
+
+Optimising content and design on your store is crucial for several reasons. Firstly, it significantly influences user engagement, conversion rates, and overall sales performance. A site that's well-optimised offers engaging content and a user-friendly design. This ensures visitors can easily find what they're looking for, enhancing their overall shopping experience.
+
+Moreover, high-quality and relevant content improves SEO. This helps the site rank higher in search engine results, attracting more traffic. An intuitive and aesthetically pleasing design also plays a key role. It keeps visitors on the site longer and helps to reduce bounce rates.
+
+Additionally, optimising the site for mobile devices is important. A growing number of users shop on their phones, and a mobile-friendly site provides them with a seamless shopping experience.
+
+In essence, optimising both content and design is vital. It creates a positive first impression, encourages repeat visits, and ultimately, increases conversions and revenue.
+
+=== Optimising Product and Landing Pages
+
+==== Creating dedicated landing pages
+Creating dedicated landing pages in Shopify using the Pages feature with custom templates involves a few steps. This process allows you to design unique landing pages tailored to specific campaigns, products, or events. Here’s how you can do it:
+
+1. **Design Custom Templates**:
+   ** First, you'll need to create custom templates for your landing pages. This usually requires editing your Shopify theme's code.
+   ** Go to the Shopify Admin, click on 'Online Store', and then 'Themes'.
+   ** Find the theme you want to edit and click on 'Actions' > 'Edit code'.
+   ** To create a new template, you might add a new template file under the 'Templates' directory. For example, you can create a new template for a page by adding a file named `page.custom-name.liquid`.
+   ** Customize the HTML, CSS, and Liquid code in this new file to create your desired layout.
+2. **Create a New Page**:
+   ** In the Shopify Admin, go to 'Online Store' > 'Pages'.
+   ** Click on 'Add page'.
+   ** Enter the title and content for your new landing page. You can use Shopify’s rich text editor to add text, images, and links.
+3. **Apply the Custom Template**:
+   ** On the new page screen, you'll see a section named 'Theme templates'.
+   ** From the dropdown menu, select the custom template you created (e.g., `page.custom-name`).
+4. **Customize Your Page Content**:
+   ** Using the rich text editor, add and format your content as needed. You can include text, images, videos, and links.
+   ** For more advanced customizations, you might need to edit the HTML of the page directly, which can be done in the editor.
+5. **Preview and Adjust**:
+   ** Use the 'Preview' button to view how your page looks live.
+   ** Make adjustments as necessary by returning to the edit page and template code.
+6. **Save and Publish**:
+   ** Once you are satisfied with the page, click 'Save' to publish it.
+7. **Link to Your Landing Page**:
+   ** After the page is created, link to it from your homepage, navigation menu, or promotional materials.
+8. **SEO and Page Settings**:
+   ** Don't forget to fill in the 'Search engine listing preview' section at the bottom to optimize your page for SEO.
+   ** Add a meta title and meta description, and set a URL handle.
+
+Remember, creating effective landing pages often involves a balance between compelling content and design. Ensure your landing pages are aligned with your overall branding and are optimized for conversion (e.g., clear call-to-action buttons). Also, consider the page loading speed, as this can impact user experience and SEO.
+
+=== Emphasizing product benefits
+
+Emphasising the benefits of a product in its descriptions is crucial, as it moves the focus from mere features to the real value the product offers to the customer.
+
+This method aligns with the key marketing principle that consumers are more drawn to how a product can address their issues or enhance their lives, rather than simply its specifications.
+
+By spotlighting the benefits, you resonate with the customer's needs and desires, making it simpler for them to see how the product fits into their lifestyle.
+
+This emotional connection is essential for driving sales, as purchasing decisions are often more influenced by perceived benefits and outcomes than by technical details.
+
+Furthermore, descriptions that focus on benefits can help set your product apart in a saturated market by distinctly articulating why it's unique, thus boosting its appeal and increasing the chances of conversion.
+
+==== Checklist for Emphasizing Product Benefits
+
+Certainly! Here's a checklist for emphasising benefits in product descriptions:
+
+1. **Identify Key Features**: List down all the notable features of your product.
+2. **Translate Features into Benefits**: For each feature, explain how it benefits the customer. Ask yourself, “What problem does this feature solve?” or “How does it improve the customer’s life?”
+3. **Understand Your Audience**: Know who your target customers are. Understand their needs, desires, and pain points.
+4. **Highlight Emotional Benefits**: Consider how your product makes the customer feel. Is it providing comfort, convenience, status, or saving time?
+5. **Use Relatable Examples**: Provide scenarios or examples where the product’s benefits become clear in a real-life context.
+6. **Be Specific and Clear**: Avoid vague statements. Be clear about how the benefits directly impact the customer.
+7. **Comparison with Competitors**: Where applicable, subtly highlight how your product’s benefits stand out against competitors.
+8. **Include Testimonials or Reviews**: Use customer testimonials that speak about the benefits they’ve experienced.
+9. **Visual Representation of Benefits**: If possible, use images or graphics to visually demonstrate the benefits.
+10. **Simplicity is Key**: Keep the language simple and jargon-free so it’s easily understood by your target audience.
+11. **Call to Action**: Encourage the customer to take action, linking the action to the benefit they will receive.
+12. **Proofread for Clarity and Persuasiveness**: Ensure the description is well-written, free of errors, and effectively persuasive.
+13. **Update Regularly**: Keep your product descriptions updated with current information and feedback.
+14. **Monitor and Adapt Based on Feedback**: Pay attention to customer feedback and analytics to refine the emphasis on certain benefits.
+15. **Legal and Ethical Compliance**: Ensure all claims about benefits are truthful and comply with relevant advertising standards and regulations.
+
+This checklist will help you effectively emphasise the benefits of your product in a way that resonates with your target audience and enhances your marketing efforts.
+
+
+==== Incorporating upsells
+
+Incorporating upsells on your Shopify product pages is a strategic way to increase your average order value. Here are several methods you can use to effectively implement upsells:
+
+* **Product Recommendations:** Use apps or built-in features in Shopify to display related products or accessories that complement the main product. These recommendations can be based on customer behavior, purchase history, or the current product's attributes.
+* **Bundles and Kits:** Create product bundles or kits that offer a slight discount when items are bought together. This encourages customers to purchase more to avail the discount. For instance, if you're selling a camera, you could bundle it with a memory card and a carrying case.
+
+To do this we recommend you check out the free Shopify Bundles App https://apps.shopify.com/shopify-bundles
+
+.Shopify Bundles App
+image::SCR-20240104-pixy.png["Shopify Bundles App"]
+
+* **Post-Purchase Upsells:** After a customer completes a purchase, you can present them with a time-sensitive offer on a related product. This can be done through the thank-you page or via email.
+* **Pop-ups and Modals:** Use pop-ups or modal windows to suggest upsells when a customer adds a product to their cart. Ensure these are non-intrusive and relevant to the customer's current selection.
+* **Tiered Pricing:** Offer premium versions of products (like a 'Pro' version) at a higher price. Customers who are interested in higher quality or more features might be tempted to upgrade.
+* **Quantity Discounts:** Encourage customers to buy more of the same product by offering a discount on bulk purchases. This is particularly effective for consumable products or items that need regular replacement.
+* **Loyalty Programs:** Implement a loyalty program that encourages repeat purchases. Offer points or rewards that can be redeemed for upsell products.
+* **Personalised Recommendations:** Utilise customer data to provide personalised upsell recommendations based on their past browsing and purchase history.
+* **Social Proof and Reviews:** Showcase customer reviews and ratings, especially those that mention the purchase of additional products or how well products work together. Social proof can significantly influence buying decisions.
+* **Smart Cart Analysis:** Analyse items in the cart and suggest products that complement them. For example, if a customer has a dress in their cart, suggest matching shoes or accessories.
+
+To implement these strategies, you can explore the Shopify App Store for upsell and cross-sell apps. Many of these apps offer customisable features and can be seamlessly integrated into your existing Shopify store. Remember, the key to successful upselling is to provide genuine value to the customer. The upsell should feel like a natural extension of their purchase decision.
+
+==== Providing clear, compelling content
+==== Using high-quality images
+
+Acquiring high-quality product images is crucial for an e-commerce merchant, as it directly impacts the customer's perception and buying decision. Here are several ways to obtain such images:
+
+1. **Professional Photography:** Hiring a professional photographer to take high-quality images of your products is often the best approach. This ensures that the lighting, angles, and background highlight your product's features effectively.
+For our e-commerce stores, we arranged a deal with a local photographer. We offer him free studio space, and in return, he takes photos of our products.
+He comes in a few times a week and takes photos of our products about once a month.
+If we need a photo in a hurry we take it ourselves with an iPhone.
+2. **DIY Photography:** If you have a good quality camera or even a high-end smartphone, you can take the photographs yourself. There are plenty of online tutorials on product photography that can guide you on how to set up proper lighting and backgrounds.
+We use iPhones to do this, and a simple studio setup with a white background.
+3. **Supplier Images:** If you're reselling products, ask your suppliers if they can provide high-quality images (we have 28,000+ SKUs and rely heavily on supplier images).
+
+Remember, the key to successful product imagery is consistency in quality and style across all your products. This helps in building a brand image and improves the overall shopping experience for your customers.
+
+We tend to take the following images for each product:
+
+* **Main Image:** This is the main image that is shown on the product page. For us this is an 'Isometric Angle' image of
+the product.
+* **Additional Images:** These are additional images that are shown on the product page. For us, these are 'Top Angle' and 'Bottom Angle' images of the product.
+
+.Example of an 'Isometric Angle'
+image::snes_iso.jpg["Example of an isometric image angle"]
+
+.Example of an 'Top Angle'
+image::snes_top.jpg["Example of an 'Top Angle'"]
+
+This is pretty much all we need for selling "components", but if you're selling finished products you might want to take
+additional images being used. For example, if you're selling clothing, you might want to take additional images of the product being worn by a model,
+or if you're selling furniture, you might want to take additional images of the product in a room.
+
+===== Cleaning up Product Images
+
+We use Photoshop, and Pixelmator to clean up our product images.
+
+Photoshop is now accessible via a monthly subscription, and Pixelmator is a one-off purchase on the Mac App Store.
+
+Here are some of the things we do to clean up our product images:
+
+* **Remove Backgrounds:** We use the magic wand tool to select the background and then delete it.
+* **Remove Shadows:** We use the magic wand tool to select the shadow and then delete it.
+* **Remove Dust:** We use the spot healing brush tool to remove dust and imperfections.
+This is a big deal for us as we sell a lot of small electronic components which really show up dust when zoomed in.
+
+===== Product Image Formats
+
+We start from the following:
+
+* We use PNG as the base format for our product images.
+* All our product images are 1500x1500 pixels in size.
+* The resolution of our product images is set at 72 DPI.
+* Our products are photographed against a white background, making them compatible with the requirements of platforms like Amazon and eBay.
+
+Shopify recommends using square images with a size of 2048 x 2048 pixels. The platform accepts a maximum image file size of 20MB.
+Images can be up to 4472 x 4472 pixels in size and have a maximum resolution of 72 DPI.
+Shopify will automatically resize any images that exceed these limits.
+
+We let Shopify resize our images for us, but if you want to do it yourself, you can use Photoshop or Pixelmator to resize your images.
+
+Shopify will also transcoded your images into modern formats like WebP and AVIF, which can significantly reduce the file size of your images.
+If we're having to host our images we use an AWS S3 bucket, and a Lambda function called from CloudFront to resize, transcode and cache our images.
+
+If you're encorporating photos in emails, you might want to ditch the modern formants and instead use old formats like JPEG, and PNG.
+
+==== Using detailed descriptions
+
+When creating product descriptions, it's important to strike a balance between providing enough information and keeping it concise.
+
+I tend to split my product descriptions into two sections:
+
+* **The actual product description:** This is the the description of the product itself that you put on the product page.
+
+.Product Description Input Field
+image::SCR-20240105-iqgy.png["Product Description Input Field"]
+
+* **FAQ:** This is information that prospective customers might want to know about the product, but isn't necessarily relevant to the product description.
+
+We implement our FAQs on page using per-product templates and the process is slightly different depending on the theme you're using.
+
+Generally speaking you to menu:Online Store[Themes > Customise].
+
+This will open up the theme customiser.
+
+Create a new template for your product page by clicking on the template selector on the top center of the screen.
+
+image::SCR-20240105-isji.png[]
+
+Navigate to products, and click on 'Create Template'.
+
+image::SCR-20240105-itbk.png["IMG_TITLE"]
+
+image::SCR-20240105-ithd.png["IMG_TITLE"]
+
+Many templates will have a 'FAQ' section that you can add to the product page.
+
+.Adding the FAQ Section
+image::SCR-20240105-itxz.png["Adding the FAQ Section"]
+
+Back on the product page you need to associate the template with the product by selecting the template you just created from the template selector.
+
+.Theme template
+image::SCR-20240105-iuut.png["Theme template"]
+
+=== Focus on User-Friendly Design
+
+* **Simplicity and Clarity:** The design should be clean and free from clutter. Users should be able to understand what the page is about at a glance. This includes clear product images, concise descriptions, and intuitive navigation.
+* **Accessible Design:** Ensuring that the website is accessible to all users, including those with disabilities, can broaden your customer base and improve overall user experience.
+* **Consistent Branding:** Consistent use of colours, fonts, and style that align with the brand helps in creating a memorable and professional look.
+* **Easy Checkout Process:** A streamlined checkout process with clear instructions and minimal steps can significantly reduce cart abandonment rates.
+
+=== Improving Website Technical Aspects
+==== Ensuring fast loading times
+
+Ensuring fast load times on Shopify is hard because you don't have direct access to the server, but there are a few things you can do to improve load times:
+
+Improving the load time of your Shopify product page can significantly enhance user experience and potentially increase conversions. Here are some strategies you can implement:
+
+* **Make sure the theme is using optimised images**: Large image files can significantly slow down your page load time.
++
+If your theme is not making use of optimised images via Shopify's image CDN, you can use an app like Photoshop, Pixelmator etc to optimise your images.
+And be sure to use modern formats like WebP which provide high quality at smaller file sizes.
+This is more of an issue for "product adjacent" images, these are images that are not loaded directly on the product page, but are loaded via the theme.
+
+* **Use a Fast and Responsive Theme**: Some themes are inherently faster than others. Choose a theme that's optimised for performance.
+
+* **Limit the Number of Apps and Plugins**: Each installed app can add to the load time. Review and remove any unnecessary apps or plugins.
+I quite often see an app for a "contact us" form loading code on every page, when it's only needed on the contact us page.
+
+* **Review Third-Party Scripts**: External scripts for analytics, fonts, or widgets can slow down your site. Evaluate their necessity and impact. In the past we found that icons by Font Awesome were slowing down our site, so we switched to using inline SVG icons instead.
+
+* **Minimise the Use of Custom Fonts**: Custom fonts can be heavy. If you must use them, consider loading only the styles and characters you need.
+
+* **High-res images, but no more**: High-res images can be bandwidth-intensive. Use them sparingly and only where they add significant value.
+
+* **Minimise Reflow:** Minimising reflow on an HTML page, also known as layout thrashing, is crucial for improving performance and user experience. Reflow happens when the browser recalculates the positions and geometries of elements in the document, resulting in a performance cost.
++
+You can minimise reflow by adding dimensions to images and videos, avoiding unnecessary DOM manipulation, and using CSS transforms instead of absolute positioning.
++
+Adding dimensions is the number one low hanging fruit for this. Simply adding the width and height attributes to your images can have a huge impact on performance.
++
+[source,html]
+----
+<picture>
+    <source media="(min-width: 800px)" srcset="large-image.jpg">
+    <source media="(min-width: 450px)" srcset="medium-image.jpg">
+    <img src="default-image.jpg" alt="Description" width="300" height="200">
+</picture>
+----
+
+* **Lazy Loading**: Implement lazy loading for images and videos, so they are only loaded when they're about to be viewed on the screen.
++
+You can tell the web browser to lazy load images by adding the loading="lazy" attribute to the img tag.
++
+[source,html]
+----
+<img src="example-image.jpg" alt="Description of the image" loading="lazy">
+----
+
+==== Using professional design
+
+Using one of the many themes on the Shopify theme store is a great way to get a professional design for your Shopify store.
+
+==== Avoiding over-reliance on stock photos
+
+I'd recommend avoiding stock photos where possible, and instead use photos of your actual products and AI to generate supplemental images.
+
+==== Using AI to Generate Product Images
+
+We use Midjourney and OpenAI's ChatGPT to generate "product adjacent" images for our Shopify store.
+
+.Example Product Adjacent Images Generated by Midjourney
+image::SCR-20240105-jdhy.jpeg["Example Product Adjacent Images Generated by Midjourney"]
+
+Koi.app has the ability to create microsites for your products, and I created this microsite (https://plants.koi.app/) for selling plant themed wall art.
+Unlike our Shopify stores that primarily sell electronic components, this store needed a lot of "real world" images of the products.
+All the images on the site were generated by Midjourney, and I think they look pretty good.
+
+.Example where all the images on the page are generated by Midjourney
+image::SCR-20240105-jdxv.jpeg["Example where all the images on the page are generated by Midjourney"]
+
+===== Generating Images with Midjourney
+
+Midjourney is a tool that uses AI to generate images of products.
+
+Midjourney uses the group chat application Discord as a front end. You will need to first sign up and create a Discord account over at https://discord.com .
+
+.Discord Website
+image::SCR-20240105-jgeu.png["Discord Website"]
+
+Once you've created your Discord account, you can join the Midjourney Discord server at https://discord.gg/midjourney .
+
+Midjourney have a good getting started guide at https://docs.midjourney.com/docs/quick-start .
+
+Once you've got Midjourney up and running, you can start generating images.
+
+.Midjourney Discord Server
+image::SCR-20240105-jgtg.jpeg["Midjourney Discord Server"]
+
+To create an image you need to provide Midjourney with a "prompt", and then it will generate an image based on that prompt.
+
+Prompts take the following form:
+----
+/imagine prompt: "A close up photo of a chunky gold bracelet on a woman's wrist."
+----
+
+This is what it looks like in Discord:
+
+.Entering a prompt for Midjourney in Discord
+image::SCR-20240105-jhps.png["Entering a prompt for Midjourney in Discord"]
+
+Midjourney will then generate an image based on the prompt, this is what it generated for the prompt above:
+
+.Result of the prompt
+image::SCR-20240105-jidz.jpeg["Result of the prompt"]
+
+Midjourney provides us with 4 different images for each prompt.
+If we find one we like, we can tell Midjourney to upscale it to a higher resolution by clicking the btn:[U1], btn:[U2], btn:[U3], btn:[U4] buttons.
+
+.Upscale Buttons
+image::SCR-20240105-jidz-3.jpeg["Upscale Buttons"]
+
+.Upscaled Image
+image::SCR-20240105-jkqv.png["Upscaled Image"]
+
+If we don't like any of the images, we can tell Midjourney to generate more images by clicking the retry button.
+
+.Retry Button
+image::SCR-20240105-jidz-4.jpeg["Retry Button"]
+
+Alternatively if an image is close to what we want, we can tell Midjourney to generate more images based on that image by clicking the btn:[V1], btn:[V2], btn:[V3], btn:[V4].
+
+.Variation Buttons
+image::SCR-20240105-jidz-5.jpeg["Variation Buttons"]
+
+
+*Aspect Ratio*
+
+One of the things I use Midjourney to do is to generate the backgrounds for banner images on our Shopify stores.
+Below is a table of common aspect ratios for banner images.
+
+[cols="2,1", options="header"]
+|===
+| Banner Size Name | Aspect Ratio
+
+| Full-Screen Banner (Web) | 16:9
+| Large Rectangle (Web Ads) | 4:3
+| Leaderboard (Web Ads) | 7:1
+| Medium Rectangle (Web Ads) | 4:3
+| Wide Skyscraper (Web Ads) | 1:2
+| Facebook Cover Photo | 2.7:1
+| Twitter Header Photo | 3:1
+| YouTube Channel Cover Photo | 16:9
+| LinkedIn Profile Banner | 4:1
+| Email Header | 3:1
+|===
+
+You can tell Midjourney to generate images with a specific aspect ratio by adding the following to the end of your prompt:
+
+----
+/imagine prompt:"Christmas decorations on a wooden table" --ar 7:1
+----
+
+.Example of Christmas promotion banner
+image::SCR-20240105-jnlv.png["Example of Christmas promotion banner"]
+
+
+===== Generating Images with ChatGPT
+
+Generating images with ChatGPT is even easier than with Midjourney.
+
+.ChatGPT Creating an Image
+image::SCR-20240105-jplv.jpeg["ChatGPT Creating an Image"]
+
+In situations where there is an imperfection in the generated image, I touch it up with Pixelmator or Photoshop.
+
+=== Regularly Update and Refresh Content
+==== Keep your website and its content up-to-date
+
+Keeping an eCommerce website updated and refreshed is crucial for maintaining customer interest and ensuring the efficiency of your online business. Here are some tips:
+
+**Regularly Update Product Listings**: Keep your product catalogue fresh with new items, and remove or update outdated or out-of-stock products. This helps maintain customer interest and trust.
+**Optimise for SEO**: Regularly update your website content to ensure it is SEO-friendly. This includes using relevant keywords, updating product descriptions, and maintaining a blog with relevant and informative content.
+**Implement Customer Feedback**: Pay attention to customer feedback and reviews. Implement changes based on the suggestions and complaints you receive.
+**Engage with Customers**: Use your website and social media platforms to engage with customers. This could include regular updates, newsletters, and interactive elements like quizzes or polls.
+
+==== Refresh stale product descriptions
+
+Refreshing stale product descriptions is an important aspect of maintaining a vibrant and engaging eCommerce website. Here are some tips to revitalise your product descriptions:
+
+1. **Focus on Benefits**: Shift the focus from just listing features to explaining the benefits. How does the product improve the customer's life? This approach helps to create a more compelling narrative around your products.
+2. **Use Engaging and Vivid Language**: Replace dull, generic language with vivid, sensory words that paint a picture in the customer's mind. Descriptive and emotive language can make a product more appealing.
+3. **Tell a Story**: Incorporate a mini-story or scenario that shows the product in use. This helps customers visualise themselves using the product, which can be a powerful motivator for making a purchase.
+4. **Include Social Proof**: Where appropriate, add testimonials or user reviews that speak about the benefits and effectiveness of the product. This can boost credibility and trust.
+5. **Optimise for SEO**: Update your product descriptions with relevant keywords to improve search engine rankings. However, ensure that the inclusion of keywords is natural and doesn't detract from the readability of the description.
+6. **Use Bullet Points for Clarity**: Break up dense paragraphs. Use bullet points to highlight key features and benefits, making the description easier to scan and digest.
+7. **Add a Personal Touch**: Personalise descriptions to speak directly to your target audience. Use language and references that resonate with your ideal customer.
+8. **Refresh Based on Feedback**: Incorporate customer feedback and questions into your descriptions. If certain questions are frequently asked about a product, address these points in the description.
+9. **Highlight What’s New**: If the product has new features or improvements, highlight these prominently. This can reinvigorate interest in familiar products.
+10. **Check Competitors**: Look at how competitors are describing similar products. This can provide inspiration and help you identify ways to differentiate your product descriptions.
+11. **Update Regularly**: Consumer trends and language evolve, so it’s important to revisit and refresh your product descriptions regularly to ensure they remain relevant and engaging.
+
+Remember, the goal of a product description is not only to inform but also to entice and persuade. By revitalising your product descriptions, you can improve customer engagement and potentially boost sales.
+
+== Marketing and Conversion Strategies
+=== Targets for Metrics
+==== Add to Cart ratio
+
+The "Add to Cart ratio" is the percentage of visitors to a website who add items to their shopping cart.
+This metric is calculated by dividing the number of visitors who add items to their cart by the total number of visitors, and then multiplying the result by 100 to get a percentage.
+
+Generally, a higher "Add to Cart ratio" is indicative of a more engaging and effective e-commerce website that successfully encourages customers to consider purchasing its products.
+
+While there's no universally accepted "good" value for this ratio, industry benchmarks suggest that an average ratio falls around 3% to 10%.
+
+==== Checkout to Purchase ratio
+
+The "Checkout to Purchase ratio," also known as the conversion rate at checkout, is a crucial metric in e-commerce. This ratio represents the percentage of visitors who finalise a purchase after beginning the checkout process. To calculate this ratio, divide the number of completed purchases by the number of visitors who initiated the checkout process and then multiply the result by 100 to express it as a percentage.
+
+The industry benchmarks for this ratio vary, but they typically fall between 20% and 40%.
+
+It's essential to acknowledge that many potential customers might add items to their cart or start the checkout process but don't complete the purchase. This can happen for several reasons, such as unexpected additional costs (like shipping or taxes), a complex or time-consuming checkout process, the absence of preferred payment options, or simply a change of mind.
+
+==== Store Conversion rates
+
+Store conversion rates represent the proportion of visitors to an online store who end up making a purchase. This rate is determined by dividing the number of customers who complete a purchase by the total number of visitors, and then this figure is multiplied by 100 to convert it into a percentage.
+
+For example, if an online store has 1,000 visitors in a day and 20 of those visitors buy something, the store's conversion rate for that day is 2%, calculated as (20/1000) * 100.
+
+Typically, e-commerce websites have conversion rates between 1% and 3%. Nonetheless, stores that are highly optimised and target their audience effectively can achieve significantly higher rates. Comparing your store's conversion rate with similar businesses in your sector is crucial for assessing its performance.
+
+Our e-commerce stores usually achieve a conversion rate of about 2-4%. In contrast, some of our niche stores boast conversion rates as high as 34%! This remarkable figure is attributable to the highly targeted traffic these stores receive, drawing in customers who are ready to make immediate purchases.
+On this store we treat the conversion rate as more of a "checkout to purchase" ratio.
+
+IMPORTANT: It important that when you're using a metric such as "Store Conversion Rate" that you're also pairing it with a metric such as "Gross Profit Per Order" to ensure that you're not just optimising for sales, but also for profit.
+It is easy to have a high conversion rate when you're giving away your products for free, but that's not a sustainable business model!
+
+=== Utilizing Email Marketing
+==== Recovering abandoned carts
+===== Abandoned Cart Email Sequence
+Shopify has it's own abandoned cart recovery feature, but you can also use an app like Klaviyo to do this.
+I'd say we have not done a great job of this, and only use the Shopify feature for our stores.
+
+Parroting the advice of others, here are some tips to create emails that can entice customers to complete their purchases:
+
+1. **Timing is Key**: Send the first email within 24 hours of the cart abandonment. This keeps your product fresh in the customer's mind. Consider sending a follow-up email a few days later if the first one doesn’t convert.
+2. **Subject Line Matters**: Craft a compelling and clear subject line. It should remind the recipient about their abandoned cart in a way that piques their interest or creates a sense of urgency.
+3. **Personalisation**: Address the customer by name and personalise the email content. Show them exactly what they left in their cart. Personalised emails tend to have higher open and conversion rates.
+4. **Clear and Attractive Design**: Use a clean, visually appealing design that highlights the products in the cart. Make sure the email is mobile-friendly, as many users check their email on mobile devices.
+5. **Strong Call to Action (CTA)**: Include a clear, prominent CTA button that takes them directly back to their cart. Phrases like “Return to Cart”, “Complete Your Purchase” or “Finish Checkout” work well.
+6. **Offer Incentives**: Consider offering a discount, free shipping, or a free gift to entice the customer to complete the purchase. However, use this sparingly to avoid training customers to abandon carts intentionally.
+7. **Showcase Benefits and Reviews**: Highlight the benefits of the product and include customer reviews or ratings to build trust and alleviate any concerns they might have.
+8. **Ease of Transaction**: Assure them of a smooth checkout process and provide various payment options. Reiterate your return policy and customer service contact information.
+9. **Urgency and Scarcity**: If applicable, inform them about the limited availability of the items in their cart or limited-time offers, to create a sense of urgency.
+10. **Analyse and Optimise**: Continuously test different elements of your emails (like subject lines, content, timing) and analyse their performance. Use this data to optimise future emails.
+
+Remember, the goal of these emails is not only to recover a sale but also to provide a positive customer experience, reinforcing the brand's value and customer service.
+
+==== Engaging customers through email marketing
+
+By far email marketing (after SEO) has been our most effective marketing channel.
+
+=== Utilize Effective Marketing Strategies
+==== Employing email marketing
+
+We have used Mailchimp, Campaign Monitor, Shopify's Email Software and our own custom email marketing platform.
+
+The problem with Mailchimp and Campaign Monitor is that they're expensive.
+
+If you're technical to the point of being able to install software on a server, I'd recommend using Sendy (https://sendy.co/).
+Sendy email marketing software that allows you to send emails via Amazon SES for a fraction of the cost of Mailchimp and Campaign Monitor.
+
+.Sendy an email marketing platform that allows you to send emails via Amazon SES for a fraction of the cost of Mailchimp and Campaign Monitor
+image::SCR-20240105-jxev.png["IMG_TITLE"]
+
+==== Employing SMS lists
+
+As a matter of principle, we don't use SMS lists, but that may change in the future.
+
+==== Employing lead capture tactics
+
+Beyond the usual forms and checkboxes at checkout, we found the best way to capture leads is to offer preorders for upcoming products with the promise to email customers when the product is available.
+
+For example when one of our most popular products was getting a new revision we added a "Reservation" product on our site.
+
+.Raspberry Pi 5 Reservation Product
+image::SCR-20240105-jyjn.jpeg["Raspberry Pi 5 Reservation Product"]
+
+==== Using upsell, cross-sell, and downsell strategies
+===== Upselling
+This is when a seller encourages a customer to purchase a more expensive version of a product or service they're already interested in. It focuses on increasing the value of the customer's current purchase. For instance, if a customer is looking to buy a laptop, upselling would involve suggesting a higher-end model with better features or performance.
+
+===== Cross-selling
+This involves suggesting related or complementary products or services to the customer in addition to their original purchase. It aims to increase the number of items being sold by appealing to the customer's need or desire for related products. For example, if a customer is buying a mobile phone, cross-selling would involve suggesting buying a phone case or a pair of headphones to go with it.
+
+===== Downselling
+Downselling is a sales technique used when a customer is hesitant about a purchase, often due to the price or complexity of the original product or service offered. In downselling, the seller offers a less expensive or simpler alternative to the initially proposed product or service. The goal of downselling is to still make a sale, even if it's of lower value, rather than losing the sale altogether.
+
+For example, if a customer is considering a high-end laptop but is concerned about the cost, the salesperson might offer a more affordable model with fewer features. This approach can help maintain customer satisfaction and loyalty, as it shows the seller's willingness to accommodate the customer's needs and budget constraints. Downselling can be a valuable strategy in ensuring a customer doesn't leave empty-handed and feels their needs and financial limitations are respected.
+
+=== Provide Value and Incentives
+==== Free Shipping
+Offering free shipping is a powerful incentive. Many customers abandon carts due to high shipping costs, so free shipping can significantly increase conversion rates.
+
+==== Discounts and Sales
+Regular discounts, sales, and promotional codes can entice customers. Limited-time offers can create a sense of urgency, encouraging quicker purchasing decisions.
+
+==== Loyalty Programs
+Implementing a loyalty program can encourage repeat business. Customers earn points or rewards for their purchases, which can be redeemed for discounts, free products, or other perks.
+
+==== Provide Additional value
+
+One of the things we do to provide additional value to our customers is to provide them with free guides on how to use our products.
+
+This works from a pre-sales perspective, as it helps customers understand how our products work, and it works from a post-sales perspective as it helps customers get the most out of our products.
+
+.Example of a free guide we provide to our customers
+image::SCR-20240105-kbjs.jpeg["Example of a free guide we provide to our customers"]
+
+== Trust and Credibility
+=== Providing Excellent Customer Service
+E-commerce merchants can provide excellent customer service by focusing on several key areas:
+
+1. **Responsive Support:** Ensure that customer support is easily accessible and responsive. This can include live chat, email, phone support, and even social media channels. Quick and helpful responses can significantly enhance customer satisfaction.
++
+For our shops, we utilise Koi.app to manage our customer support. We prefer it as it consolidates all essential information for support in one location.
+This encompasses order and customer details, tracking, and the status of inbound supplier shipments (for backorders), along with the capability to generate and send invoices.
+Previously, we employed Front, Zendesk, and HelpScout, but found them prohibitively costly for our mode of operation. In our business, we encourage each staff member to partake
+in support tasks, and we discovered that the per-seat pricing model of these platforms was excessively expensive.
+This approach keeps everyone engaged, even when their primary duties are not demanding, and motivates everyone to avoid errors that lead to support requests.
+2. **Comprehensive FAQs and Self-help Options:** A well-organised and informative FAQ section on the website can help customers find answers to common questions quickly. Additionally, offering self-service options such as order tracking, easy returns, and account management can improve the user experience.
+3. **Easy and Transparent Return Policies:** Having a clear, fair, and easy-to-follow return policy can increase customer trust and satisfaction. This includes providing clear instructions on how to return a product and what conditions apply.
+4. **Proactive Communication:** Keep customers informed about their order status, any delays, or changes in availability. Proactive communication can prevent misunderstandings and frustrations.
++
+One the things we do to be proactive is reach out to customers who have had their orders redirected to a post office for collection.
+Koi.app has a feature that shows us when an order is awaiting to be collection on the dashboard.
++
+.Dashboard Card showing Fulfillments Awaiting Collection at Australia Post
+image::SCR-20240106-kufr.png["Dashboard Card showing Fulfillments Awaiting Collection at Australia Post"]
++
+Another thing we do is reach out to customers once their order has been delivered to ensure they're happy with their purchase.
++
+.The 'Awaiting Delivery Check' view
+image::SCR-20240106-kvai.png["The 'Awaiting Delivery Check' view"]
++
+Koi's AI helps our staff write personalised messages to customers, and we've found that this has been a great way to engage with customers.
+Our staff can check in with the customer with a single click.
++
+.Checking in with a customer
+image::SCR-20240106-kyku.jpeg["Checking in with a customer"]
++
+After a customer responds positively to a check-in, we ask them to leave a review.
+5. **Feedback Mechanisms:** Encourage and facilitate customer feedback through surveys, reviews, and feedback forms. Use this feedback to continuously improve products and services.
+6. **Training and Empowerment of Staff:** Ensure that customer service staff are well-trained, knowledgeable about products and policies, and empowered to solve customer issues effectively.
++
+Again we empower all our staff to handle customer support requests.
+
+By focusing on these areas, e-commerce merchants can provide a customer service experience that not only meets but exceeds customer expectations, fostering loyalty and repeat business.
+
+==== Offering clear refund policies
+Offering clear refund policies on Shopify product pages is crucial for establishing trust with customers and ensuring a smooth shopping experience. Here are some best practices:
+
+1. **Visibility**: Ensure your refund policy is easy to find. You could include it in your website footer, on product pages, and within your FAQs. This prevents any surprises and helps customers feel secure in their purchase.
+2. **Simplicity and Clarity**: Use simple, straightforward language. Avoid legal jargon or overly complicated terms. Clearly state what items are returnable, under what conditions, and the timeframe customers have to initiate a return.
+3. **Consistency**: Apply your refund policy consistently across all products, unless there’s a valid reason for different policies (like custom-made items). This helps in managing customer expectations.
+4. **Procedure Details**: Explain the process for returns and refunds. Include steps the customer needs to follow, any forms they need to fill out, and where they should send returns.
+5. **Timeframe for Refunds**: Clearly state how long the refund process will take and in what form the customer will receive their refund (e.g., store credit, refund to their original payment method).
+6. **Cover Return Shipping**: Decide and state who pays for return shipping. Offering free return shipping can be a selling point, but if that's not feasible, make sure customers know they are responsible for return costs.
+7. **Restocking Fees**: If you charge restocking fees, clearly state this in your policy. Customers should not be surprised by additional charges.
+8. **Digital Products**: If you sell digital products, specify your policy for these items, as they can't be returned in the traditional sense.
+9. **Update Regularly**: Review and update your policy regularly to reflect any changes in your business model or legal requirements.
+10. **Legal Compliance**: Ensure your refund policy complies with the consumer protection laws in the jurisdictions where you operate. In some regions, there are mandatory refund rights for consumers that you must adhere to.
+11. **Feedback Opportunity**: Provide an opportunity for customers to give feedback about their return or refund experience. This can help you improve your processes.
+12. **Contact Information**: Include contact information for customers who have more questions about your policy.
+
+A clear and fair refund policy not only protects your business but also builds customer loyalty and trust, which are crucial for long-term success in e-commerce.
+
+Since this guide is heavily skewed towards merchants in Australia, I'd recommend you also read the ACCC's guide on refunds and returns at https://www.accc.gov.au/consumers/consumer-rights-guarantees/repair-replace-refund
+so that you can ensure your refund policy meets the obligations set out within Australian Consumer Law.
+
+==== Providing warranties
+
+You can offer a variety of warranties to increase customer trust and, consequently, boost conversions. These include:
+
+1. **Money-Back Guarantee:** This is a standard warranty where customers are assured a full refund if they are not satisfied with their purchase within a specific period. For instance, a 30-day money-back guarantee on all products can be very effective in building trust.
+2. **Product Warranty:** Offering a warranty against defects in materials and workmanship can be reassuring. For example, a one-year product warranty can cover repairs or replacements of items that have manufacturing defects.
+3. **Lifetime Warranty:** This is a strong selling point, where the merchant promises to repair or replace a product at any time if it fails due to manufacturing or material defects. For example, a kitchenware brand might offer a lifetime warranty on all stainless steel cookware.
+4. **Extended Warranty:** Merchants can provide an option to purchase an extended warranty for products. For example, offering a 3-year extended warranty for electronics, covering repairs and maintenance beyond the manufacturer's warranty.
+5. **Satisfaction Guarantee:** This warranty promises that the product will meet customer expectations, or they can return it for a refund or exchange. For example, a clothing retailer might offer a 'fit and style' satisfaction guarantee.
+6. **Price Match Guarantee:** This assures customers they are getting the best deal. For instance, a merchant could offer to match the price of a competitor if the customer finds the same product for a lower price elsewhere.
+7. **Free Trial Period:** Offering a free trial period for services or products (like software or subscription boxes) allows customers to try before they buy, reducing the perceived risk. For example, a 14-day free trial for a skincare subscription box.
+8. **Free Returns and Exchanges:** Providing hassle-free returns and exchanges can be a form of warranty, ensuring customers that they can easily return a product if they're not satisfied.
+9. **Quality Assurance Guarantee:** This can be specific to certain products where the merchant guarantees the quality, such as a guarantee of 100% organic ingredients for skincare products.
+
+Each of these warranties can help alleviate customer concerns and make them more comfortable with making a purchase, especially for new or high-value products.
+
+WARNING: Make sure you are meeting the obligations of Australian Consumer Law (ACL). The ACL provides automatic guarantees to protect consumers (and not always businesses) when they buy products and services. These guarantees apply regardless of any other warranties your might offer above.
+
+Here are the key warranties required by Australian Consumer Law:
+
+1. **Acceptable Quality:** Products must be of acceptable quality, meaning they are safe, lasting, have no faults, look acceptable, and do all the things someone would normally expect them to do.
+2. **Fit for a Particular Purpose:** If a consumer tells a retailer that they need a product for a specific purpose, or a retailer represents that their product is suitable for a specific purpose, the product must meet that purpose.
+3. **Match Description:** Products must match any description provided in advertising, on packaging, or shown to the consumer before purchase.
+4. **Match Sample or Demonstration Model:** If a consumer buys a product based on a sample or demonstration model, the final product must match the sample or model.
+5. **Express Warranties:** Any extra promises made about such things as the performance, quality, or condition of goods must be honoured.
+6. **Right to Sell (Clear Title):** The retailer must have the right to sell the product, ensuring that it's not stolen or encumbered by a security interest.
+7. **Undisturbed Possession:** Consumers must be able to use the goods without interference from the retailer or manufacturer after the sale.
+8. **Spare Parts and Repair Facilities:** A reasonable supply of spare parts and repair facilities must be available for a reasonable period after purchase unless the consumer is advised otherwise.
+9. **Guarantees for Services:** Services must be carried out with acceptable care and skill, be fit for any specified purpose, and be delivered within a reasonable time when there is no agreed end date.
+
+If these guarantees are not met, consumers have a right to a remedy, which can include repair, replacement, refund, cancellation of service, or compensation for a drop in value caused by the problem. These guarantees cannot be excluded by a business's terms and conditions of sale.
+
+The Australian Government provides resources and guides over at https://consumer.gov.au/resources-and-guides
+
+.Australian Government Resources and Guides on Consumer Law
+image::SCR-20240106-lcyw.png["Australian Government Resources and Guides on Consumer Law"]
+
+==== The virtuious cycle of providing great service
+
+Providing "great service" creates a virtuous cycle for e-commerce merchants due to several interconnected benefits that reinforce and amplify each other.
+
+Here's how it works:
+
+1. **Customer Satisfaction:** Exceptional service leads to high customer satisfaction. Satisfied customers are more likely to be loyal, repeat buyers.
+2. **Repeat Business:** Customers who have positive experiences are more likely to return for future purchases. Repeat customers are often more profitable as they tend to spend more over time.
+3. **Positive Word of Mouth:** Happy customers are more likely to recommend the business to others. This word-of-mouth advertising is incredibly valuable as it comes with a high level of trust and can lead to new customers at no cost to the merchant.
+4. **Enhanced Reputation:** Great service contributes to a strong brand reputation. A good reputation attracts new customers, partners, and sometimes even investors.
+5. **Competitive Advantage:** In markets where products can be quite similar, outstanding customer service can be a key differentiator, setting a business apart from its competitors.
+6. **Customer Feedback:** Engaging with customers through good service provides opportunities to gather feedback. This feedback can be used to improve products and services, further enhancing customer satisfaction.
+7. **Reduced Costs of Service:** Satisfied customers tend to have fewer complaints and issues, leading to lower customer service costs. Efficient service systems also prevent issues from escalating, saving time and resources.
+8. **Employee Satisfaction:** Providing great service often requires empowered, motivated employees. When employees see the positive impact of their work on customers, it can lead to higher job satisfaction and better performance.
+9. **Data Collection and Personalisation:** Great service often involves personalising customer interactions. This personalisation requires data collection, which can then be used to improve marketing efforts, product development, and future service.
+10. **Increased Sales and Growth:** The culmination of these factors often leads to increased sales. Satisfied, loyal customers tend to spend more, and their advocacy brings in new customers.
+
+In essence, great service creates a self-reinforcing loop where satisfied customers lead to numerous benefits that in turn further improve customer satisfaction and business success.
+
+==== Offering accessible support options
+Providing accessible support options means offering a range of channels and methods to meet various customer needs and preferences. This involves multiple contact methods for customer support, such as live chat, email, telephone, and social media. Additionally, it includes self-service features like frequently asked questions (FAQs), order tracking, and straightforward return processes.
+
+For better productivity, it's advisable to minimise the number of inboxes you need to monitor. Here, 'inboxes' refer to email, social media, and live chat inboxes, among others. Fewer inboxes mean less time spent checking them and a reduced chance of overlooking something important.
+
+Ideally, you should use a system that merges all your inboxes into one.
+
+Another strategy we employ is using a single email address for all enquiries (utilising Koi). This approach allows all our staff to view incoming queries, ensuring that we don't miss anything crucial.
+
+Whilst we do have multiple email addresses, they all forward to a single email address.
+
+=== Showcasing Trust and Credibility
+
+==== Looking like a real business
+
+* **Use a professional email address**: Use a professional email address that matches your domain name. Avoid using free email services like Gmail or Yahoo.
+
+.A professional looking email address
+image::SCR-20240105-kdwm-2.png["A professional looking email address"]
+
+* **Have a phone number**: Even if you don't have a dedicated phone line, you can use a service like Maxo to get a phone number that forwards voicemail to your email.
+
+You won't get as many calls as you think!
+True story: We once did a Kickstarter campaign for a product, and we had a phone number on the Kickstarter page. For thousands of people who backed the campaign, only one person called the phone number (yes they were German).
+
+* **Have an address**: Display your business address on your website. This helps build trust and credibility.
+
+.Show your address on your website
+image::SCR-20240105-kdwm.png["Show your address on your website"]
+
+Create a Google My Business listing. Information on how to create a listing is available at: https://www.google.com/intl/en_au/business/
+
+.A Google My Business Listing for one of our businesses
+image::SCR-20240105-kfmp.png["A Google My Business Listing for one of our businesses"]
+
+==== Use faces and names
+
+We like to use faces and photos of real people in our marketing.
+
+.Example of a photo of a real person on our website
+image::SCR-20240105-kcph.jpeg["Example of a photo of a real person on our website"]
+
+==== Using social proof
+
+Using social proof is a powerful technique to influence customer behavior and boost conversions. Social proof leverages the idea that people are influenced by the actions and approvals of others. Here are some examples of how businesses can use social proof:
+
+1. **Customer Reviews and Ratings:** Displaying customer reviews and ratings on product pages. Positive feedback from other buyers reassures potential customers about the quality and value of the products.
+2. **Testimonials:** Featuring testimonials from satisfied customers, especially if they are well-known or influential in a particular industry, can significantly impact potential buyers.
+3. **User-Generated Content:** Sharing user-generated content, such as customer photos or videos using the product, on social media or the website. This content is authentic and relatable, making it an effective form of social proof.
+4. **Case Studies and Success Stories:** Detailed case studies or stories showcasing how your product or service helped a customer can be very persuasive, particularly in B2B environments.
+5. **Social Media Shares and Likes:** Highlighting the number of social media shares, likes, or followers your product, service, or brand has received can act as a powerful endorsement.
+6. **Celebrity or Influencer Endorsements:** If a well-known public figure or influencer uses or endorses your product, featuring this can attract their followers and fans.
+7. **Expert Approval:** Displaying endorsements or approvals from industry experts, thought leaders, or relevant authorities can boost credibility.
+8. **Media Mentions and Features:** Showcasing any features or mentions in popular media outlets can enhance trust and credibility.
+9. **‘As Seen On’ Badges:** Adding badges or logos of well-known publications or websites where your brand or product has been featured.
+10. **Best Seller Tags:** Highlighting products as ‘best sellers’ or ‘most popular’ can guide new customers to trusted and frequently purchased items.
+11. **Customer Counters:** Showing the number of customers who have purchased a product or signed up for your service.
+12. **Real-Time Notifications:** Some websites show notifications when someone makes a purchase, demonstrating live, ongoing interest in their products.
+13. **Trust Seals and Certifications:** Displaying trust seals, like BBB Accreditation or industry-specific certifications, can enhance credibility.
+14. **Before and After Comparisons:** For products that deliver transformative results, showing before and after images from real customers can be very effective.
+
+Incorporating these forms of social proof into marketing strategies can significantly influence consumer behavior by building trust and credibility, ultimately leading to increased sales and customer loyalty.
+
+=== Leveraging Social Proof and Credibility
+==== Displaying customer reviews
+We use the Shopify Reviews app to display customer reviews on our product pages.
+
+TIP: Turn off automatic publishing of reviews. This allows you to review and approve reviews before they're published and prevents spam reviews from being published.
+
+==== Displaying awards, certifications, licenses, and other credentials
+We sell to businesses, government, and educational institutions, so we display our certifications and credentials on our website.
+
+This includes:
+
+* Our business' legal name and ABN/ACN
+* Workers Compensation Insurance Details (including policy number and link to certificate of currency)
+* Public Liability Insurance Details (including policy number and link to certificate of currency)
+* Product Liability Insurance Details (including policy number and link to certificate of currency)
+* Government Vendor IDs (to make it easier for government customers to find us on their procurement systems)
+
+In addition to this we also provide a downloadable information sheet that contains all the above information.
+
+.Example of our downloadable information sheet
+image::SCR-20240105-kjhx.png["Example of our downloadable information sheet"]
+
+==== Adding your story to your website
+
+An effective "About Us" page on a Shopify store should be engaging, informative, and build trust with potential customers.
+Here's a template that includes key elements to help increase conversions:
+
+-----
+**About Us**
+
+[Header Image or Logo]
+
+**Welcome to [Your Brand Name]**
+*Tagline or Motto*
+
+**Our Story**
+[Introduction - A brief overview of your brand's journey, mission, and values.]
+
+**How It All Began**
+[Origin Story - Share the inspiration behind starting your business. Include personal anecdotes or challenges faced.]
+
+**What We Stand For**
+[Core Values - Highlight your brand's values and ethics, such as quality, sustainability, customer service, etc.]
+
+**Our Products/Services**
+[Product/Service Overview - Briefly describe what you offer. Focus on the benefits and unique selling points.]
+
+**Quality and Craftsmanship**
+[Details on product quality, materials used, craftsmanship, or service excellence.]
+
+**Sustainability and Ethics**
+[Information on sustainable practices, ethical sourcing, or any eco-friendly initiatives.]
+
+**Meet the Team**
+[Team Introduction - Introduce key team members with photos and short bios. Showcase the human side of your brand.]
+
+**Why Choose [Your Brand]?**
+[Unique Value Proposition - Explain why customers should choose your brand over competitors. Highlight customer-centric policies, like free shipping, returns, guarantees, etc.]
+
+**Our Community**
+[Community Engagement - Discuss how you connect with your community, whether through social media, events, or collaborations.]
+
+**Customer Testimonials**
+[Positive Reviews - Display a few customer testimonials or press mentions to build trust and credibility.]
+
+
+**Join Our Journey**
+[Call-to-Action - Encourage visitors to join your mailing list, follow you on social media, or explore your products.]
+
+[Social Media Icons]
+
+**Contact Us**
+[Contact Information - Provide your contact details and encourage visitors to reach out with any questions.]
+
+
+**Footer**
+[Links to other pages such as FAQs, Contact, Terms of Service, Privacy Policy, etc.]
+
+-----
+
+This template is designed to be engaging and informative, helping to build trust and a connection with your audience, which is key to increasing conversions. Remember to infuse it with your brand's unique voice and personality to stand out.
+
+== Data-Driven Improvements
+=== Continuous Improvement through Data and Testing
+==== Leveraging data analytics
+==== A/B testing
+
+This method involves comparing two different versions of a webpage to identify which one leads to higher conversion rates. It allows for testing various elements such as call-to-action buttons, product descriptions, and page layouts.
+
+I should note that we haven't engaged much in formal A/B testing recently. We've identified and addressed obvious and immediate improvements without the need for structured A/B testing.
+
+Previously, we used https://www.optimizely.com/ for our A/B testing needs. However, they have since shifted their focus towards more enterprise-oriented products.
+
+==== Understanding your market
+
+Understanding your market is essential for creating effective marketing strategies and optimising your website.
+
+Initially, we sold products that interested us, but as we expanded, we began selling products that appealed to our customers.
+
+We discovered that ChatGPT is a valuable tool for segmenting our customer base and comprehending their interests.
+
+=== Optimize for Different Customer Segments
+==== Getting to know your customers
+
+I strongly suggest connecting with your customers to understand them better. Engage with them over the phone, ask
+questions, and pay attention to their responses. For instance, at Koi.app, all our merchants have direct access
+to my mobile phone, Facebook Messenger, and address. This close relationship is reciprocal; we can contact them for
+feedback, and they can reach out to us as needed.
+
+==== Using AI to understand your customers
+
+I've found that ChatGPT is a valuable tool for segmenting our customer base and comprehending their interests.
+
+We use ChatGPT to generate a list of customer segments for a product.
+
+.Asking ChatGPT to generate a list of customer segments for a product
+image::SCR-20240105-kypi.png["Asking ChatGPT to generate a list of customer segments for a product"]
+
+If in the above example I were wanting to target "Sun Protection-Conscious Consumers", I could ask ChatGPT to generate tell me the queries and concerns of "Sun Protection-Conscious Consumers".
+
+.Queries and concerns of "Sun Protection-Conscious Consumers"
+image::SCR-20240105-kzug.png["Queries and concerns of "Sun Protection-Conscious Consumers"]
+
+From this we can turn these queries and concerns into a list of keywords to target in our marketing, and also use it to generate a list of FAQs for our product pages.
+
+.FAQs for our product pages
+image::SCR-20240105-ldna.png["FAQs for our product pages"]
+
+==== Creating tailored experiences
+
+If you understand your customers and their origins, you can customise their experience to meet their specific requirements. This may involve developing several landing pages for distinct customer groups, or even creating separate stores for each segment. For instance, we operate a store that offers electronic components to enthusiasts and creators, as well as to major educational institutions and government agencies. We deliver a bespoke experience for these clients by offering varied payment options and tailored communication about how to purchase from us in a manner compatible with their procurement systems.
+
+A more consumer-focused example is a shop that specialises in products for a specific demographic, such as women's underwear, men's shoes, or children's toys. In this scenario, you could create landing pages for customers buying gifts for others, as well as for those purchasing for themselves.
+
+For gift buyers, you could guide them towards gift cards, emphasise gift-wrapping services, and highlight a third-party returns system. This way, they don't have to worry about the recipient managing returns if the gift is the wrong size or incompatible.
+
+You might opt to engage the gift-buying audience with a distinct tone of voice, different imagery (such as the joy of the recipient receiving the gift), and possibly more affordable products.
+
+For customers shopping for themselves, you could direct them towards higher-priced items and offer more detailed product options, like size and colour. These details, which could overwhelm gift buyers, might be more relevant and appealing to those buying for personal use.
+
+==== Using dynamic content
+
+"Using Dynamic Content" on product pages, in the context of optimising conversion rates, refers to the practice of automatically adjusting and personalising the content on a product page according to the individual characteristics or behaviour of a visitor. This technique aims to make the content more relevant and engaging for each visitor, which can potentially lead to higher conversion rates.
+
+1. **Personalised Product Recommendations:** Display products that are specifically tailored to a visitor's browsing history, purchase history, or search behaviour. For example, if a visitor frequently looks at sports shoes, show them related sports accessories or newer models of sports shoes.
++
+Here are several ways to implement dynamic content on product pages.
++
+For logged in users you can utilise the The customer object is directly accessible globally when a customer is logged in to their account.
++
+You have full access to the customer object in these contexts, which means you can use it to display dynamic content on your store based on the customer's information.
+This could include customer tags, customer addresses, customer orders, and customer account information.
++
+-----
+{
+  "accepts_marketing": true,
+  "addresses": [],
+  "addresses_count": 4,
+  "b2b?": false,
+  "company_available_locations": [],
+  "current_company": {},
+  "current_location": null,
+  "default_address": {},
+  "email": "cornelius.potionmaker@gmail.com",
+  "first_name": "Cornelius",
+  "has_account": true,
+  "id": 5625411010625,
+  "last_name": "Potionmaker",
+  "last_order": {},
+  "name": "Cornelius Potionmaker",
+  "orders": [],
+  "orders_count": 1,
+  "phone": "+441314960905",
+  "tags": [
+    "newsletter"
+  ],
+  "tax_exempt": false,
+  "total_spent": "56.00"
+}
+-----
++
+You can then use this information to display dynamic content on your store based on the customer's information.
++
+For example, you could display a banner on your store for customers who have spent over $1000 on your store, or promote free shipping to customers in a specific region.
++
+[source,liquid]
+----
+{% if customer and customer.tags contains 'education' %}
+  <div class="education-banner">
+    <!-- Your banner content here -->
+    <p>Welcome, education member! Enjoy our exclusive resources.</p>
+  </div>
+{% endif %}
+----
++
+More information can be found in the Shopify documentation: https://shopify.dev/docs/api/liquid/objects/customer
+
+[start=2]
+. **Geo-Targeting:** Tailor content based on the visitor's geographic location. For instance, showing weather-appropriate clothing or region-specific deals can make the shopping experience more relevant.
++
+If you're at the stage where you want to do this, your best bet is to use Shopify Markets (https://help.shopify.com/en/manual/markets).
+Shopify Markets is a tool designed to help you manage your international markets from a single store. It allows you to selectively publish products, set prices in local currencies, and provide localized experiences.
+. **Behavioural Triggers:** Change the content based on the visitor's behaviour on the site. If a visitor spends a lot of time on a specific product category, you might highlight products or offers in that category.
++
+To do this your best bet is a tool that uses JavaScript to track user behaviour and then dynamically update the page based on that behaviour.
+. **Dynamic Pricing:** Adjust prices in real-time based on factors like demand, inventory levels, or the visitor's browsing history. For example, offering a slight discount to a visitor who has viewed the same product multiple times but hasn’t made a purchase.
+. **Personalised Banners and Messaging:** Display custom banners or messages based on the visitor's past interactions with your site. For example, welcoming back a returning customer or showing a special offer to a first-time visitor.
+. **Seasonal or Time-Sensitive Content:** Automatically update content based on the time of the year, ongoing sales, or holidays. For example, highlighting gift ideas around Christmas or special offers during Black Friday sales.
+
+To practically implement dynamic content, you generally need a content management system (CMS) or e-commerce platform that supports dynamic content features. You may also require tools for tracking and analysing user behaviour, as well as potentially integrating with a customer relationship management (CRM) system for deeper personalisation. Advanced implementations might also involve machine learning algorithms to predict and serve the most effective content to each user.
+
+=== Apply A/B Testing and Data Analysis
+
+I'd highly recommend you get the industry accepted basics right before you start A/B testing.
+
+Most of our A/B testing in the past was conducted using Optimizely (https://www.optimizely.com/) and Google Optimize (https://optimize.google.com/), with data sourced from Google Analytics (https://analytics.google.com/).
+However, Optimizely has recently pivoted towards products more suited for enterprise customers, and Google Optimize has been discontinued (https://support.google.com/analytics/answer/12979939?hl=en). As an alternative to Google Optimize, Google suggests considering VWO Testing (https://vwo.com/pricing/#vwo-testing).
+
+== Psychological and Narrative Strategies
+=== Using Psychological Triggers
+==== Implementing the bandwagon effect
+
+The bandwagon effect is a psychological phenomenon where people do something primarily because others are doing it, regardless of their own beliefs, which they may ignore or override. This concept is prevalent in consumer behaviour, where it is seen that people often tend to be influenced by the choice of others.
+
+To implement the bandwagon effect in your Shopify store to increase conversions, consider the following strategies:
+
+1. **Social Proof**: Display reviews and testimonials prominently. When potential customers see that others have had positive experiences with your products, they are more likely to make a purchase.
+2. **Best Sellers**: Highlight your best-selling products. This indicates to customers that these products are popular and trusted by others.
+3. **Limited Stock Notifications**: Showing that an item is in high demand but has limited stock can create a sense of urgency and a fear of missing out (FOMO).
+4. **User-Generated Content**: Encourage and showcase user-generated content like customer photos, videos, or stories. This not only provides social proof but also helps in creating a community feel.
+5. **Real-Time Activity**: Implement features on your site that show real-time purchases or activity. For example, "Someone in Melbourne just bought this product."
+6. **Influencer Endorsements**: Collaborate with influencers to promote your products. When potential customers see someone they admire using your product, they are more likely to purchase it themselves.
+7. **Create a Community**: Build a community around your brand, perhaps through social media or a dedicated forum. People are more likely to buy something if they feel they are part of a group or community.
+8. **Customer Counters**: Display the number of customers who have bought a product or are viewing it. This creates a sense of popularity and trust.
+
+==== Implementing the scarcity effect (AKA FOMO)
+
+The scarcity effect is a psychological principle where people place a higher value on things that are scarce or seem in limited supply. It's based on the fear of missing out (FOMO) and can be a powerful tool to drive consumer behavior and increase conversions.
+
+Here are ways to implement the scarcity effect on your Shopify store:
+
+1. **Limited Time Offers**: Create promotions that are available for a short period. This can be done through limited-time sales, discount codes, or special offers. The key is to clearly communicate the time limit to create urgency.
+2. **Low Stock Indicators**: Show when items are low in stock. This can be a simple message like "Only 3 left in stock!" next to product listings. It creates a sense of urgency, encouraging customers to buy before the item runs out.
+3. **Exclusive or Limited Edition Products**: Offer products that are exclusive or available only in limited quantities. This not only makes them more desirable but also encourages quicker decision-making.
+4. **Countdown Timers**: Use countdown timers for special deals or when launching new products. This visual cue reinforces the limited time available to take advantage of the offer.
+5. **Flash Sales**: Host flash sales where products or discounts are available for a very limited time. Promote these aggressively through your website, email marketing, and social media.
+6. **Pre-Orders for Limited Stock Items**: Allow customers to pre-order products that aren't yet available. This builds anticipation and also makes the product seem more exclusive and desirable.
+7. **Back-in-Stock Notifications**: For products that go out of stock, offer an option for customers to receive notifications when they are back in stock. This maintains interest and creates a sense of scarcity when the product becomes available again.
+8. **Seasonal or Themed Products**: Offer products that are relevant for a particular season or theme for a limited time. For example, special holiday-themed items available only around that holiday.
+
+It's important to use scarcity marketing ethically and not to create artificial scarcity, as this can lead to customer distrust. Genuine scarcity, communicated transparently, can be a powerful tool to increase urgency and drive sales on your store.
+
+==== Implementing the authority effect
+
+The authority effect is a psychological principle that refers to people's tendency to comply more readily with those who are perceived as authorities. This principle is often leveraged in marketing and can be highly effective in influencing consumer behavior and enhancing conversions.
+
+To implement the authority effect in your Shopify store, you can use the following strategies:
+
+1. **Expert Endorsements**: Have products or services endorsed by experts in the relevant field. This could include industry influencers, well-known bloggers, or professionals who are respected in their domain.
+2. **Display Certifications or Awards**: If your products or business have received any certifications, awards, or recognitions, display them prominently on your site. This could include quality certifications, environmental certifications, or awards from reputable organizations.
+3. **Authoritative Content**: Create high-quality, informative content that positions your brand as an expert in your field. This can include blog posts, how-to guides, informative videos, and detailed product descriptions.
+4. **Collaborations with Reputable Brands**: Partner with established and reputable brands. The association with well-known brands can enhance your credibility.
+5. **Customer Testimonials from Professionals**: Showcase testimonials from professionals or known figures in your industry. Testimonials from individuals with expertise or authority in a relevant field can be more persuasive than those from average customers.
+6. **Media Mentions and Appearances**: Highlight any media coverage your brand or products have received. Featuring articles, interviews, or segments from known newspapers, magazines, TV shows, or online platforms can boost your credibility.
+7. **Professional Website Design**: Ensure your website has a professional, clean, and trustworthy design. A well-designed website can significantly enhance the perception of authority and credibility.
+8. **Use of Professional Language and Terminology**: Use language and terminology that reflects expertise in your field. However, it’s important to balance this with clarity to ensure your content remains accessible to your audience.
+9. **Incorporate Trust Seals and Badges**: Display trust seals, such as security badges or membership in professional organizations, to further establish your site's credibility and authority.
+
+Authentic authority builds trust, which is a key driver for long-term customer relationships and business success.
+
+==== Implementing the reciprocity effect
+
+The reciprocity effect is a social psychology principle that suggests people feel obligated to return a favor when someone does something for them. This principle can be a powerful tool in marketing, influencing consumer behavior, and increasing conversions.
+
+To implement the reciprocity effect in your Shopify store, consider the following strategies:
+
+1. **Free Samples or Gifts**: Offer customers a free sample or gift with their purchase. This can create a sense of indebtedness, making them more likely to make a purchase or return for future purchases.
+2. **Exclusive Discounts for Returning Customers**: Provide exclusive discounts or special offers to customers who have previously purchased from your store. This not only rewards their loyalty but also encourages them to continue shopping with you.
+3. **Helpful Content and Resources**: Provide valuable content for free, such as informative blog posts, how-to guides, or instructional videos. This can establish goodwill and make customers more inclined to support your business.
+4. **Personalized Recommendations**: Provide personalized product recommendations based on the customer's previous browsing or purchase history. This individualized attention can be seen as a favor, making customers more likely to reciprocate with a purchase.
+5. **Excellent Customer Service**: Go above and beyond with your customer service. When customers feel they are receiving exceptional service, they are more likely to reciprocate with loyalty and positive word-of-mouth.
+6. **Community Support Initiatives**: Engage in community support or charitable initiatives and involve your customers in the process. For example, donate a portion of sales to a charity, and let your customers know their purchase is contributing to a good cause.
+7. **Loyalty Programs**: Implement a loyalty program that rewards customers for their repeat business. This can be in the form of points, discounts, or special perks.
+8. **Surprise Upgrades or Discounts**: Occasionally surprise your customers with an upgrade or discount. This unexpected favor can create a strong sense of reciprocity and goodwill.
+
+Remember, the key to successfully implementing the reciprocity effect is sincerity. The favors or benefits you provide should genuinely add value to the customer's experience. When done right, reciprocity can lead to increased customer satisfaction, loyalty, and ultimately, higher conversions on your store.
+
+=== Developing a Compelling Narrative
+
+Developing a compelling narrative for a product on your Shopify store is an effective strategy to engage potential customers and increase conversion rates. Here are some tips to help you create an engaging and persuasive narrative:
+
+1. **Understand Your Audience**: Know who your target customers are. Understanding their interests, needs, and pain points will help you craft a narrative that resonates with them.
+2. **Storytelling**: People love stories. Create a story around your product that connects emotionally with your audience. This could be the story of how the product was created, the challenges overcome, or how it can transform the user's life.
+3. **Focus on Benefits, Not Just Features**: While features are important, benefits connect on an emotional level. Explain how your product makes life easier, better, or more enjoyable for the user.
+4. **Use Engaging Visuals**: Incorporate high-quality images and videos that complement your narrative. Visual storytelling can be more effective than text alone.
+5. **Incorporate Social Proof**: Use testimonials, reviews, or user-generated content as part of your narrative. This adds credibility and allows potential customers to see how others have benefitted from the product.
+6. **Create a Sense of Urgency**: Without being pushy, craft your narrative to include elements that encourage quick decision-making, such as limited-time offers or limited stock.
+7. **Be Authentic and Transparent**: Authenticity builds trust. Be honest about your product’s capabilities and its value proposition.
+8. **Use a Consistent Tone and Voice**: The tone and voice of your narrative should align with your brand and resonate with your target audience. Whether it's professional, friendly, quirky, or serious, consistency is key.
+9. **Utilise SEO Principles**: While crafting your narrative, keep SEO in mind. Use relevant keywords naturally within your text to improve search engine rankings and visibility.
+10. **A/B Testing**: Experiment with different narratives to see what resonates most with your audience. Use A/B testing to refine your approach based on actual data.
+11. **Involve the Customer in the Story**: Make the customer the hero of the story. Show how the product fits into and improves their life.
+12. **Incorporate Multiple Formats**: Besides text, consider using blogs, podcasts, or videos to tell your product's story, catering to different preferences of your audience.
+13. **Keep it Simple and Relatable**: Avoid jargon and complex language. The narrative should be easy to understand and relatable to your target audience.
+14. **Highlight the Unique Selling Proposition (USP)**: Clearly communicate what makes your product different and why it stands out in the market.
+15. **Connect with Emotions**: People make purchasing decisions based on emotions. Your narrative should aim to evoke feelings that align with the desire to purchase your product.
+
+Remember, the key to a compelling narrative is making a connection with your audience. It’s about creating a story that is engaging, relatable, and convinces the customer of the value your product adds to their lives.
+
+==== Building a unique and engaging story
+
+Structuring a story around your product involves a strategic approach that guides the customer through a journey, making them feel connected and engaged with the product. Here’s a structured approach you can follow:
+
+1. **Set the Scene (Introduction)**:
+   - Start with an attention-grabbing opening. This could be a surprising fact, an intriguing question, or a relatable scenario.
+   - Introduce the context or setting. For instance, this could be the initial problem or need that inspired the creation of your product.
+
+2. **Introduce the Characters**:
+   - Present the 'characters' in your story. This could be the founders, the team behind the product, or a representation of your ideal customer.
+   - Make these characters relatable to your audience. This helps in building a connection with your potential customers.
+
+3. **Identify the Problem or Challenge**:
+   - Clearly outline the problem or challenge that your product addresses.
+   - This should be a problem your target audience can relate to, making it easier for them to see the value in your product.
+
+4. **The Journey to the Solution**:
+   - Describe the journey of how the product was developed. This includes the trials, errors, and breakthroughs.
+   - Highlight the dedication, research, and effort that went into creating the solution.
+
+5. **Reveal the Solution (Your Product)**:
+   - Introduce your product as the hero that solves the identified problem.
+   - Focus on the benefits of your product, not just its features. Explain how it improves lives, saves time, reduces cost, etc.
+
+6. **Show the Transformation**:
+   - Illustrate the positive changes that your product brings. This can be shown through customer testimonials, before-and-after scenarios, or data-driven results.
+   - This section is crucial as it shows the tangible impact of your product.
+
+7. **Call to Action**:
+   - Conclude with a strong call to action. Encourage the reader to take the next step, whether it's making a purchase, signing up for a newsletter, or following your brand on social media.
+   - Make it easy for them to act with a clear, simple directive.
+
+8. **Include a Sense of Urgency or Scarcity**:
+   - Adding elements of urgency (like a limited time offer) or scarcity (limited stock) can prompt immediate action.
+
+9. **Close with a Memorable Statement**:
+   - End your story with a memorable closing statement or slogan that reinforces your brand identity and product value.
+
+Throughout this structure, maintain a consistent tone and style that aligns with your brand and resonates with your target audience. Remember, the goal is to engage the customer emotionally, making them feel part of the story and more inclined to invest in your product.
+
+Here is an example of putting this structure into practice for a fictional indoor plant store:
+
+----
+**Title:** "The Journey of the Monstera Standleyana Variegated: From Our Nursery to Your Home"
+
+**Introduction:**
+In the heart of Cairns, surrounded by the lush tapestry of nature, our nursery began a quest to bring a slice of the outdoors into your home. This journey led us to a unique discovery: the Monstera Standleyana Variegated, a plant with striking beauty and resilience.
+
+**Characters:**
+Meet our dedicated team of plant enthusiasts. Led by [Your Name], a passionate horticulturist with a vision to infuse homes with greenery, our team shares a deep love for plants and the joy they bring.
+
+**Problem:**
+In today’s fast-paced world, the connection with nature is often lost. Many yearn for a touch of green in their homes – a piece of tranquility amidst the chaos, yet struggle to find plants that are both beautiful and easy to care for.
+
+**Journey to the Solution:**
+Our search for the perfect indoor plant was no small feat. We experimented with numerous species, enduring the humid Cairns weather and challenging growing conditions. Then, we found it – the Monstera Standleyana Variegated, with its stunning variegated leaves and adaptable nature.
+
+**Reveal the Solution:**
+Introducing our line of Monstera Standleyana Variegated – a true masterpiece of nature. Each leaf tells a story of resilience and beauty, thriving in a variety of indoor conditions and bringing a sense of calm and elegance to any room.
+
+**Transformation:**
+Our customers have shared heartwarming stories of how these plants transformed their spaces. From brightening up living rooms to becoming the centerpiece of home offices, each Monstera Standleyana Variegated has created an oasis of peace and beauty.
+
+**Call to Action:**
+Experience this transformation in your own space. Click "Buy Now" to adopt one of these extraordinary plants. Bring a piece of Cairns' natural beauty into your home today.
+
+**Urgency:**
+With each plant uniquely crafted by nature, our stock is as special as it is limited. Secure your Monstera Standleyana Variegated before they’re all embraced by other plant lovers.
+
+**Closing Statement:**
+"Let the Monstera Standleyana Variegated be more than a plant in your home – let it be a daily reminder of nature's serenity and strength, from our Cairns nursery to your doorstep."
+
+----
+
+This story not only highlights the unique attributes of the Monstera Standleyana Variegated but also connects emotionally with potential customers, showcasing the merchant's passion and expertise.
+
+==== Incorporating a unique narrative
+
+To make a narrative unique, especially if you're in a competitive, it's important to infuse the story with elements that are distinctly personal and authentic to your brand.
+
+Using our nursery example from above, let's look at the strategies we can use to make the narrative unique:
+
+1. **Personal Touch**: Share your personal journey or the story behind why you started your nursery. People connect with people, not just products. Your personal story can make your narrative stand out.
+2. **Local Flavour**: Since your nursery is in Cairns, incorporate local elements into your story. This could be references to the local climate, flora, or culture. It helps in creating a sense of place and authenticity.
+3. **Customer Stories**: Include real anecdotes or testimonials from your customers. How has your plant changed their space or life? These stories add a relatable and human element to your narrative.
+4. **Behind-the-Scenes Glimpses**: Share insights into your nursery's daily operations, your plant-growing process, or how you source your plants. This transparency creates a deeper connection with your audience.
+5. **Highlight Unique Aspects of Your Plants**: What makes your Monstera Standleyana Variegated different from others? It could be a specific growing technique you use, the quality of the plants, or even unique packaging.
+6. **Interactive Storytelling**: Involve your audience in the story. This can be done through social media, where you ask customers to share their experiences or post photos of the plants in their homes.
+7. **Educational Content**: Provide valuable information within your narrative. This could be care tips for the Monstera Standleyana Variegated, interesting facts about the plant, or why it’s ideal for certain environments.
+8. **Visual Storytelling**: Use unique and high-quality visuals. Photographs or videos of your nursery, the plants, and the people behind the brand can make your narrative visually stand out.
+9. **Consistency Across Channels**: Ensure that your unique narrative is consistent across all platforms – your Shopify store, social media, newsletters, and any other customer touchpoints.
+10. **Evoking Emotions**: Craft your story in a way that evokes emotions – whether it’s a sense of calm, joy, or curiosity. Emotional connections are often the strongest.
+11. **Sustainability Angle**: If your nursery practices sustainable methods, highlight this in your story. A growing number of consumers value environmentally friendly practices.
+12. **Unique Brand Voice**: Develop a unique brand voice that reflects your nursery’s personality. Whether it’s friendly, informative, whimsical, or professional, a distinct voice can set you apart.
+
+When you're looking to create a unique narrative for their products, asking the right questions is crucial. Here are some generic questions that can guide the development of a compelling and distinct story:
+
+1. **Who is my target audience?:** Understanding who you are selling to (age, interests, lifestyle) is key to tailoring your narrative.
+2. **What problem does my product solve?** Identifying the specific need or gap your product fills helps in shaping a relevant story.
+3. **What is unique about my brand or product?** This could be your production process, the origin story of your brand, unique features of your product, or your personal journey.
+4. **How did I get started in this business?** Your personal story or motivation for starting your business can be a powerful part of your narrative.
+5. **What are the core values of my brand?** Understanding your brand values (e.g., sustainability, craftsmanship, innovation) can help align your story with what your brand stands for.
+6. **What emotions do I want to evoke in my customers?** Deciding on the emotional response you want (joy, trust, excitement, calmness) can guide the tone and content of your story.
+7. **How does my product fit into the lifestyle of my target audience?** Visualizing how customers will use and benefit from your product can provide insights for your narrative.
+8. **What feedback or stories have I received from customers?** Customer experiences and testimonials can provide authentic content for your story.
+9. **How can I illustrate the journey of my product?** From creation to the final product, sharing this journey can enhance transparency and interest.
+10. **What makes my product or brand relevant today?** Understanding current trends or societal shifts that align with your product can make your narrative more timely and relevant.
+11. **How can I incorporate elements of storytelling (characters, setting, conflict, resolution)?** Structuring your narrative like a story can make it more engaging and memorable.
+12. **How can I use visuals to complement my story?** Thinking about the types of visuals (photos, videos, graphics) that can enhance your narrative.
+13. **What channels are best suited to share my story?** Considering where your audience is most active (social media, email, website) to effectively distribute your story.
+
+By reflecting on these questions, you can create a narrative that not only highlights their product but also connects with their audience on a deeper level, setting the foundation for a strong and lasting relationship.
+
+== Focus on High-Quality Content
+=== Use well-crafted copy
+For product descriptions, this means writing text that is engaging, clear, persuasive, and tailored to your target audience. It's about using language effectively to showcase the benefits and features of your product, while also resonating with the reader.
+
+Don't forget that there are many different types of copy on your Shopify store, including:
+* About & Contact Us pages
+* Collection descriptions
+* Product descriptions
+* Blog posts
+* FAQs
+* Policy pages
+
+=== Engaging videos
+Videos offer a fantastic medium to display your products and captivate your audience. They're ideal for demonstrating product functionality, showcasing features, or presenting the product in use. Additionally, videos serve as an excellent platform for narrating your brand's story or sharing customer testimonials.
+
+There's a certain authenticity and tangibility that comes with videos, making them an effective method to connect with your viewers and establish trust.
+
+For swiftly producing videos, I utilise the Apple Clips app on my iPhone. It's an outstanding resource for crafting brief videos, perfect for sharing on social media or embedding in your Shopify store.
+
+.Apple Clips Website
+image::SCR-20240106-lhbi.jpeg["Apple Clips Website"]
+
+TIP: I recommend using a cheap and cheerful tripod to keep your phone steady while filming. This will help you avoid shaky footage and ensure a professional-looking video.
+
+== Understand and Address Customer Pain Points
+
+Understanding your customers' pain points is crucial to creating a product that meets their needs. It's about identifying the problems they face and demonstrating that your product is the solution that addresses their issues.
+
+I like to use ChatGPT to generate a list of customer pain points for a product, and then use this in my marketing copy, FAQ and product descriptions.
+
+.Asking ChatGPT to generate a list of customer pain points for a product
+image::SCR-20240105-oduc.png["Asking ChatGPT to generate a list of customer pain points for a product"]
+
+=== Clearly articulate how your products solve specific problems
+
+After I have established the pain points of my customers, I then use ChatGPT to generate a list of benefits for my product.
+
+I then get ChatGPT to convert these pain points into a list of benefits for my product.
+
+.Pain points converted into a list of benefits for my product
+image::SCR-20240105-oekj.png["Pain points converted into a list of benefits for my product"]
+
+=== Focus on benefits rather than just features
+
+Once I have my benefits, I then use ChatGPT to create a product description that focuses on the benefits of my product.
+
+The prompt I use looks something like this:
+
+.Prompt for generating a product description that focuses on the benefits of my product
+image::SCR-20240105-ogve.png["Prompt for generating a product description that focuses on the benefits of my product"]
+
+This is the result:
+
+.Resulting product description that focuses on the benefits of my product
+image::SCR-20240105-ohpi.png["Resulting product description that focuses on the benefits of my product"]
+
+== Advice from individual YouTube videos
+
+I've watched hours of YouTube videos on the topic of conversion rate optimisation. Here are some of the key takeaways from the videos I've watched.
+
+=== Increase E-Commerce Sales Without Spending Money: Complete CRO Guide!
+
+video::euJBnU2zcn0[youtube,width=720,height=405]
+
+
+* Running a Shopify store requires not just driving traffic but also converting visitors to customers.
+* Example provided: Skincare and beauty brand increased conversion rate by 223% and RAS (Return Ad Spend) from 0.7 to over 2x by improving product and landing pages.
+* Shopify is powerful, but success depends on conversion rate optimization (CRO).
+* *Step 1:* Audit existing conversion rates, looking at traffic sources and where traffic is directed on your website. Organic traffic typically converts better than ad traffic.
+* Analyze the funnel to identify drop-offs.
+* Desired Metrics for Optimization:
+  ** Add to Cart ratio should be above 10%.
+  ** Checkout to Purchase conversion should be around 70%.
+  ** Overall store conversion rates: 1.5% is average, 2-3% is good, above 3% with cold traffic ads is excellent.
+* *Step 2:* Optimize product pages and the importance of dedicated landing pages.
+* Case study: Stroller company boosted conversions by 15% by using dedicated landing pages congruent with ad content.
+* Landing pages should be congruent with the ad that directed traffic to them.
+* Include upsells, cross-sells, and free shipping thresholds on landing pages.
+* Utilize marketing principles like those from "Breakthrough Advertising" by Eugene Schwarz.
+* *Step 3 & 4:* Streamline the checkout process and bundle helpful Shopify apps to enhance conversions.
+* Troubleshoot conversion issues between the landing page and add to cart or add to cart and checkout.
+* Recommended apps include Reviews.io for testimonials, Rep (a WYSIWYG landing page builder), Hotjar for heatmaps and user behavior analytics, Triple Whale for ad stats tracking, and Shopify’s native features for streamlined checkout and product bundling.
+* *Step 5:* Utilize email marketing to recover abandoned carts and increase conversions through platforms like Klaviyo and Retention.com.
+* Emphasize the relationship between ads, landing pages, checkout process, and email marketing in the e-commerce conversion funnel.
+* *Step 6:* Emphasize continuous improvement through data analytics and A/B testing, using Google Analytics despite its limitations.
+* Use analytics to inform CRO, especially when a business has sufficient traffic for reliable data (approximately 100K visits per month recommended).
+* Encourage the use of paid advertising services and joining free education communities for further assistance.
+
+
+
+=== How To 2-3X Conversions Of ANY Ecommerce Funnel (Step-By-Step Funnel Review)
+
+video::7Z_v4qikND0[youtube,width=720,height=405]
+
+* The speaker offers a critique and redesign of an e-commerce website's homepage, focusing particularly on a lack of a clear and compelling message.
+* Key points from the analysis and recommendations:
+   ** A website must quickly convey the primary benefit of the product and generate intrigue.
+   ** Product differentiation is crucial - it requires a unique selling proposition.
+   ** Headlines must lead visitors to continue reading by highlighting benefits and curiosity.
+   ** E-commerce sites should avoid being generic and instead tell a compelling story.
+   ** The importance of understanding the market and the primary desires of potential customers is emphasized.
+   ** Highlighting every possible product benefit can confuse visitors; it's better to focus on a primary benefit.
+   ** Testimonials and FAQs can support the product narrative but should not overwhelm it.
+   ** Offer should be crafted around a single mass-market desire to avoid commodity status.
+   ** It's recommended to use a "Halo strategy" to deeply understand the market.
+   ** A unique narrative, such as the rediscovery of an ancient recipe, can be compelling if done thoughtfully.
+   ** A funnel should guide newcomers from curiosity to purchase without making them feel overwhelmed.
+   ** The "above the fold" section is the most important part of a homepage and must immediately grab attention.
+   ** Conversion rate optimization goes beyond minor elements like button color to the overall message and user journey.
+   ** Custom, proprietary blends or formulas in the product can enforce the product's unique selling point and prevent price-based comparisons.
+   ** The importance of channeling existing market desires into the product offering instead of trying to create new desires is underscored.
+   ** The sales page should eventually introduce the product details and benefits after engaging with the story.
+
+* The speaker used tools like predictive heat mapping to understand where user attention goes on a website page.
+* Insights into what drives sales leaning towards the notion that consumption of content precedes conversion.
+* Tips include avoiding commodity status by not just listing all features but focusing on a single key benefit.
+* The video suggests that the primary goal is to stir up enough desire to convert casual visitors into committed buyers.
+* The speaker advises researching competitors and customer feedback for creating marketing angles and product development.
+
+Overall, the advice is to captivate the marketplace with a unique and intriguing narrative that showcases the primary benefit of the product, subsequently backed by detailed product information and social proof to facilitate the decision-making process.
+
+
+=== 7 eCommerce Conversion Rate Optimization Fundamentals
+
+video::hb-qAAfCSPc[youtube,width=720,height=405]
+
+
+* Businesses struggle with website conversion despite investing in speed, high-quality images, and optimized titles/descriptions.
+* Trust and credibility factors on product pages and landing pages are critical to encourage users to purchase.
+* A lot of self-made or developer-made websites lack marketing expertise, particularly in displaying credibility indicators.
+* Analyzing high-converting sites like Amazon provides valuable insights.
+  ** Amazon's use of high-quality images, prominently placed review stars, and ample product details are key elements that boost conversions.
+  ** Amazon Choice badges and a Q&A section contribute to building consumer confidence.
+  ** Efficiently designed add-to-cart button layouts and options play a role in improving conversion rates.
+
+* Apple's website highlights ‘fast free contactless delivery’ and ‘easy returns’ as anxiety-reducing elements, enhancing trust.
+* Offering live chat or specialist contact options can answer potential customer queries and possibly increase conversions.
+* A unique strategy for low-cost, high-margin products is offering samples to gain customer trust and lead to future sales.
+
+* An informative 'About Us' page can significantly impact conversions by:
+  ** Showcasing company ethics, diversity, social responsibility, and real employee images (as done by Zendesk).
+  ** Providing tangible company metrics and statistics to establish credibility and trust.
+
+* Ensuring professional website design, real photos (avoiding stock photos if possible), and effectively communicating the story and value of products is crucial.
+* Aside from on-page elements:
+ ** Fast website loading times
+ ** High-resolution product images
+ ** Well-crafted product titles
+ ** Concise bullet points with features and benefits near product titles are recommended.
+* For businesses needing assistance, Convertica offers a service where they conduct a conversion audit and devise a strategy to enhance website conversion rates.
+
+=== Conversion Rate Optimisation (CRO) | Double your Shopify sales in 2023
+
+video::5zOIeBYhOyM[youtube,width=720,height=405]
+
+* CRO (Conversion Rate Optimization) is a crucial yet often underestimated tool for business optimization.
+* CRO can potentially double your business with a few tests.
+* Davie Fogarty, who has generated over $270 million with his Shopify stores, shares his experience and tips on CRO.
+* CRO involves A/B testing different versions of a website to see which performs better.
+* Tools like ClickFunnels and Webflow facilitate A/B testing. Shopify may require additional tools and expertise.
+* Recommendations for CRO depend on business size, resources, and technical infrastructure.
+* For new e-commerce businesses (up to $500,000 in revenue), CRO should be practiced, starting with post-purchase attribution surveys and e-mail split tests.
+* Use page builders like GemPages or Shogun for built-in A/B testing and hire designers if necessary to apply survey insights to your website.
+* For businesses doing $500,000 to $2 million, consider hiring a dedicated CRO team, including a UI designer, a developer, and someone who understands CRO.
+* For businesses over $2 million in revenue, invest in a full CRO team including a CRO head, UX designer, front-end developer, data analyst, and direct response copywriter.
+* Use the ICE framework (Impact, Confidence, Ease) from "Hacking Growth" by Morgan Brown and Sean Ellis to prioritize tests.
+* Some successful tests include a floating add to cart button and adding a "New" badge to new products, which can lead to significant revenue increases.
+* A/B testing should change only one variable at a time to identify what influences results, but large changes may be needed initially to establish a strong baseline.
+* Other tips include considering site speed when using CRO tools and hard-coding over using apps, and focusing on revenue per visitor as a metric for success while also considering operational expenses and profit per visitor.
+
+=== Shopify Conversion Rate Optimization For Beginners in 2023 (5 Simple Steps)
+
+video::Y63TDVm9Y2s[youtube,width=720,height=405]
+
+* The speaker offers a method to convert store visitors into buyers and increase conversion rates, emphasizing that while design plays a small role, it's not the main factor for purchasing.
+* Importance of convincing people they want your product, with product design as a secondary element.
+* Amazon’s success despite unspectacular design is cited, due to excellent descriptions, delivery, and presentation of product benefits.
+* The speaker has a "Five Reasons to Buy" framework, drawing from Google and behavioral science principles and their 15 years of e-commerce experience with over $100 million in sales.
+* Framework aims for higher conversion rates, more customers, and increased profits.
+* Brendan, the speaker, is an e-commerce coach offering a program called the "Million Dollar Store" for entrepreneurs looking to scale their e-commerce business.
+
+Five Reasons to Buy Framework:
+
+1. Understand and Articulate the Problem:
+  ** Put yourself in the customer’s shoes to solve their problems with your product.
+  ** Highlight product benefits (not features), using descriptions and images.
+  ** Example given: A knee brace product page should clearly state how it helps with recovery, stability, and pain reduction.
+2. Simplify Delivery:
+  ** Clearly state delivery times, costs, and any additional charges on the product page.
+  ** Be transparent about stock and shipping times.
+  ** Keep shipping information near the "Add to Cart" button.
+3. Offer Great Support:
+  **Have clear refund policies and warranties listed on the product page.
+  **Use FAQs to pre-emptively answer common customer questions.
+  **Provide easy contact options for customer support (live chat, contact form, phone number).
+4. Provide Social Proof:
+  **Use product reviews and tools like Judge.me to demonstrate customer satisfaction.
+  **Display badges for awards or certifications to build credibility.
+  **Highlight exclusive features or technology for additional proof of the product's effectiveness.
+5. Show Value:
+  ** Offer something free or at discounted shipping thresholds to emphasize value.
+  ** Ensure your pricing is competitive or explain why it's higher or lower than others.
+  ** Display price discounts clearly with original prices struck through.
+
+Implementation of this framework is claimed to increase conversion rates, turning more visitors into buyers, and subsequently increasing revenue.
+
+* Viewers are encouraged to use these strategies in their own stores and to engage with the channel for more helpful content.
+
+=== 2X Shopify Conversion Rates (ULTIMATE GUIDE)
+
+video::vumJEvGmzwc[youtube,width=720,height=405]
+
+* Aim to increase your online store's e-commerce website conversion rate if it is under 3%.
+* Utilize a checklist to ensure you include all necessary elements on your site for higher conversions.
+* Core points to address on a homepage:
+  ** Clear focus on what's being sold.
+  ** Strong call to action.
+  ** Special offer banner (e.g., free shipping, discounts).
+  ** Product-focused design with images and descriptions of use.
+* Ensure your menu is simple with little padding to streamline the navigation process.
+* Eliminate the home button and make the logo navigable instead.
+* Integrate geolocation for automatic currency conversion based on visitor location.
+* Display best-selling products first because they appeal to a larger audience.
+* Build credibility with featured logos, brand stories, and customer reviews.
+* Present features and benefits succinctly to showcase what sets your product apart.
+* Include a section comparing price per unit to break down any price objections.
+* Highlight guarantees, such as a money-back offer, to increase buyer confidence.
+* Optimize your product pages with high-quality images, focused add-to-cart buttons, and clear descriptions.
+* Offer cross-sells and bundles to increase average order value (AOV) and margins.
+* Utilize a footer with menus for additional navigation points and strategies to keep the user engaged.
+* Use badges for payment options to show available payment methods.
+* Include shipping times to manage customer expectations.
+* Have an 'About Us' page to connect with customers on a personal level.
+* Offer subscribe-and-save options for repeat orders and to boost customer lifetime value.
+* Revisit padding and layout to ensure a smooth mobile experience.
+* Consider using a premium theme that consolidates many conversion rate optimization features.
+* For further assistance or mentorship, consider reaching out to experts in digital marketing.
+
+Tools and Tips:
+
+* Use conversion rate optimization checklists to systematically improve your site.
+* Employ easy-to-use web design tools like Canva to create attractive graphics.
+* Implement payment plan options like Afterpay or Sezzle to cater to different customer needs.
+* Capture emails and build your contact list by offering discounts in exchange for signing up.
+* Use pop-ups strategically to capture user attention without being intrusive.
+* Select Shopify themes that are optimized for conversion and customize based on your brand aesthetic.
+* Consider professional mentorship for personalized advice and strategies.
+
+Actionable Insights:
+
+* Regularly review and optimize your website based on conversion rate performance.
+* Continuously gather and showcase
+
+=== 8 Reasons Why Your Conversion Rate Is Low
+
+video::_1w7eZ-yFf8[youtube,width=720,height=405]
+
+* Conversion rate is critical in digital marketing as it signifies the percentage of visitors that complete a desired action on your website, affecting profitability and success.
+* A wide range of conversion rates exist, from 0.001% to 45%+, influenced by various factors.
+* Eight common reasons for low conversion rates include:
+  1. Attracting the wrong type of visitor.
+  2. Using unsuccessful traffic channels.
+  3. Website lacks what people want.
+  4. Presenting the wrong offer for the visitor's stage in the sales funnel.
+  5. Poor website appearance.
+  6. A lack of trust signals on the website.
+  7. Slow website loading times.
+  8. Stale or outdated website content.
+* Traffic from the wrong target audience can come from high search volume keywords unrelated to what's offered, reducing conversion rates.
+* Wrong traffic channels might get attention but not from the ideal audience (e.g., using TikTok when the target audience is older).
+* Conversion rates can vary significantly across different traffic channels.
+* The website's product or service presentation may fail to highlight the benefits or authority, deterring conversions.
+* Too aggressive calls to action can be off-putting; softer, gradual engagement steps are recommended.
+* Poor website design or mobile incompatibility can turn visitors away.
+* Trust is essential; incorporating reviews, testimonials, and third-party trust signals can improve conversions.
+* Slow loading websites deter visitors; tools like Google Analytics and PageSpeed Insights can identify speed issues.
+* Websites should evolve with design trends; stale content should be refreshed for relevancy.
+* Keeping content up-to-date, such as blog posts, creates an impression of an active and current website.
+* To improve conversions and traffic, receive a free website and marketing review from Exposure Ninja.
+
+=== 10 Ways to Increase Your eCommerce Conversion Rate
+
+video::jAmRgWBRlgk[youtube,width=720,height=405]
+
+* When selling products with repeat purchases, invest more in acquiring the customer initially.
+* Businesses often break even on the first sale to profit from subsequent sales.
+* Increasing e-commerce conversion rates can boost sales without increasing traffic.
+* Tim, CEO of Exposure Ninja, outlines 10 tips for conversion rate optimization.
+* Importance of conversion rate: More sales without increased traffic costs, and improved ad productivity.
+* Ensure conversion tracking and heat mapping/user recording (e.g., Hotjar) are set up.
+* Speed optimization is critical (e.g., using ShortPixel for images).
+* Enhance product photography to give customers a clear idea of the product.
+* Add clear positioning statements about the store and its mission to establish brand identity.
+* Implement a benefits bar highlighting store advantages (e.g., price match, returns policy).
+* Design product category layouts to show many products at once, increasing browsing options.
+* Use product videos to demonstrate and showcase products in use.
+* Customer reviews add credibility and aid the decision-making process.
+* Have clear contact options (phone, live chat) for customer inquiries and credibility.
+* Product descriptions should be detailed, answering potential customer questions.
+* Capture leads by incentivizing email sign-ups with discounts or offers.
+* Test different incentives for email capture to maximize profit.
+* Use pop-ups or exit intent pop-ups to offer discounts and capture emails.
+* Exposure Ninja offers free website and marketing review videos with personalized optimization tips.
+
+Actionable tools and tips provided in the summary:
+
+* Google Analytics for conversion tracking.
+* Hotjar for heat mapping and user recordings.
+* ShortPixel for image optimization.
+* PageSpeed Insights for speed analysis.
+* Encourage detailed product photography, possibly drawing inspiration from well-executed stores like Apple.
+* Invest in good product videos that showcase the products dynamically.
+* Utilize Amazon's review system as a model for integrating user reviews effectively.
+* Display clear contact options such as phone numbers and chat tools.
+* Craft detailed product descriptions that preemptively answer customer questions.
+* Offer sign-up incentives and consider using pop-up technology to maximize email lead capture.
+
+=== How To 4X Your Shopify Conversion Rate in 2023
+
+video::nUDuJ8DBiNo[youtube,width=720,height=405]
+
+* Introducing a conversion rate optimization strategy for Shopify that has generated significant revenue.
+* Focus on simplifying the user experience to engage customers within 50 milliseconds of their visit.
+* Emphasize the importance of featuring product information and visual representation on the homepage.
+* Highlight the value of online reviews and user-generated content to increase trust and consequently conversion rates.
+* Discuss the average e-commerce site's conversion rate, which is around 2.86%, though 1-2% is typical for new stores.
+* Provide tips on improving conversion rates:
+  ** Always display a top banner with callouts for offers like free shipping or special promotions.
+  ** Incorporate customer reviews on the website to build trust.
+  ** Ensure product choices are easy to navigate with clear color swatches, sizing, and concise descriptions.
+  ** Include additional product details, size guides, shipping, return, and refund policies in product descriptions.
+  ** Use form pop-ups to capture emails for building a marketing list.
+  ** Maintain consistent branding throughout the site, with a cohesive color scheme and image style.
+  ** Automatically adjust language and currency based on geolocation for international sales.
+*  Case Study Progression:
+  **  *Month 1:* Improve branding consistency, add product descriptions, trust badges, and secure checkout indicators.
+  **  *Month 3:* Start showcasing customer reviews and implement email and SMS cart recovery sequences.
+  **  *Month 6:* Introduce cart incentives, optimize for page speed, and showcase best sellers and new arrivals.
+  **  *Month 9:* Customize product feeds for returning customers and focus on boosting page speed for conversions.
+  **  *Month 12:* Improve model information, segment offers through email, and incentivize larger purchases with rewards.
+* The Debutify theme for Shopify is recommended to maximize conversion rates with built-in tools like cart upsells, detailed delivery times, and Instagram feed integration.
+* Offer for Debutify: a free 14-day trial plus 20% off for three months.
+* Additional services: Ads Mastery one-on-one mentorship for in-depth coverage of scaling sales and conversion optimization on Shopify, covering strategies for Facebook, TikTok ads, organic growth, etc.
+
+
+=== Psychological Triggers to Increase Conversion on Shopify
+
+video::5_LQ1j4WpX0[youtube,width=720,height=405]
+
+
+* Psychological triggers can boost conversions on Shopify stores by tapping into human behavior and motivation.
+* The bandwagon effect (social proof): Use customer testimonials, ratings, and reviews to show that others are purchasing and enjoying your products.
+* Fear of Missing Out (FOMO) / Scarcity: Create urgency by showing limited time offers or limited stock availability with countdown timers and phrases like "while supplies last."
+* Authority (Expert Opinion): Gain trust and influence decisions by having endorsements from industry experts, influencers, or reputable publications.
+* Reciprocity (Give and Receive): Offer incentives like freebies, exclusive discounts, or resources in exchange for customer actions (e.g., newsletter signup, social sharing).
+* Anchoring (Perception is Everything): Present higher-priced products first to establish a reference point, making discounted items appear more valuable.
+* The Vitals app is recommended for easily implementing reviews, user-generated content (UGC), and scarcity indicators on Shopify.
+* Examples like DRC Sport demonstrate the effectiveness of the scarcity principle by selling limited quantities of items.
+* Utilizing micro-influencers can provide a sense of perceived authority and drive customer engagement through shared social proof and reciprocity.
+* The presentation order of products can influence customer perception; showcase higher-priced items before discounted ones to create an enticing value proposition.
+
+Actionable Insights:
+
+*  Include social proof across various website pages to build trust.
+*  Use scarcity and urgency triggers to encourage customers to act quickly.
+*  Leverage authority by featuring endorsements and recommendations from experts.
+*  Encourage reciprocity by providing value first, then asking for engagement or purchase.
+*  Apply the anchoring effect by smartly ordering product presentations.
+
+=== Mastering Conversion Rate Optimization: Expert Insights from the Pros
+
+video::S1iuwMwu1Bg[youtube,width=720,height=405]
+
+* Host is joined by Chase from heatmap.com to analyze website design and user experience.
+* Chase is nicknamed the Duke of CRO (Conversion Rate Optimization) and is eager to share insights.
+* They emphasize the importance of understanding user behaviors and interest through the use of heatmaps and other analytics tools.
+* Focus on pop-up timing and interaction: Chase doesn't recommend pop-ups upon arrival but suggests using a 25-30% scroll depth pop-up to ensure some user intent.
+* Hero images should be clear and convey the purpose or special offers (like holiday sales), directing users effectively to desired pages, such as a holiday store collection page.
+* Website navigation: It's crucial to have clear categories that reflect users' needs or product use-cases, rather than just listing products.
+* Announcement bars need to be hyperlinked and promote current offers to capitalize on prime web page real estate.
+* CRO is about understanding customers through quantitative data analysis as well as qualitative feedback like surveys or interviews.
+* Product pages should have high visibility for hero products that lead to repeat purchases and serve as entry points for upselling.
+* Reviews and social proof should be strategically placed to boost credibility without causing decision fatigue. Ideal placement is right below the hero image or as the third element on the page.
+* For paid traffic, ensure a cohesive story from ads to landing pages, maintaining consistency in messaging to facilitate a smooth user journey.
+* Emphasize reviews and ratings on category and product pages to build trust and support conversion.
+* Experiment and iterate quickly with design and user experience elements since changes can be implemented and reversed with ease, unlike manufacturing issues.
+
+The conversation focuses on practical steps to make websites more user-friendly and conversion-focused through design, content, and strategic placements of elements. The key takeaway is to always center website design around the customer's needs and behaviors, using tools like heatmaps for insights and maintaining a consistent narrative across all channels.
+
+=== How to get a 6% Conversion Rate on SHOPIFY
+
+video::FA6kku6g4lE[youtube,width=720,height=405]
+
+* The video discusses methods to increase Shopify conversion rates from an average of 0.5-3% to 6%.
+* Chase Chappell, the presenter, runs an agency managing brands and teaches Facebook and TikTok ads.
+* The agency has SurgeIO, a tech company helping to track UTMs and attribute results from Facebook and TikTok analytics.
+* A client's store with a 6.13% conversion rate is used as an example, highlighting that 14% of visitors add to cart and most proceed to checkout.
+* The average order value on the site is around $50, and mobile traffic is predominant.
+* Site design, clear CTAs (Call to Actions), and providing essential product information are critical for high conversion.
+* Bestseller products should be featured prominently on the homepage for better results.
+* Detailed yet simple product pages, with limited images and clear benefits, are effective.
+* Customer reviews are crucial, especially for products that rely on consumer trust, like supplements.
+* Offering discounts (e.g., 10% off for first order) encourages first-time purchases and can increase lifetime customer value.
+* Ads should align with the landing page and provide a simple, direct message that addresses the customer's problem.
+* Video ads following TikTok's style, showing the product and customer testimonials, can be highly engaging and informative.
+* Retargeting ads with discounts help convert visitors who didn't purchase on their first visit, improving conversion rates.
+* Consistent branding throughout the site and ads helps with brand recognition and trust.
+* The video recommends using the Debutify theme for Shopify and mentions a mentorship program for personalized assistance in ads and optimization.
+* The key takeaway is that knowing your audience, providing the right amount of information, having a simple and clear user journey, and aligning ads with the on-site experience will help improve conversion rates.
+
+=== 6 Simple Ways To Boost Your Ecommerce Conversion Rate
+
+video::948bKC6pGcA[youtube,width=720,height=405]
+
+*  Increase e-commerce conversion rates by up to 20% with simple optimization tips.
+*  Encourages viewers to subscribe, like, and comment, promising team interaction in the comment section.
+*  Defines conversion rate as the percentage of visitors completing a desired action, such as filling out a form, signing up, downloading something, or making a purchase.
+*  A high e-commerce conversion rate signifies that customers are completing purchases on your site.
+
+Optimization Tips:
+
+1. Make navigation simple to help visitors find what they are looking for quickly.
+2. Offer free shipping, which can be facilitated by incorporating the cost into the product price, helping conversion rates without damaging profit margins.
+3. Showcase social proof through customer reviews at the top of product pages, as just five positive reviews can increase the likelihood of purchase by 270%.
+4. Triple check your copy for correct grammar and structure, ensuring it's easy to understand and resonates with the target buyer persona.
+5. Add explainer videos to product pages to improve product understanding and appeal to those who prefer video content.
+6. Use dynamic content to personalize the website based on visitor data, presenting relevant information and offers.
+
+Additional Insights:
+* Testing different call-to-action (CTA) placements and wording can significantly increase conversions (e.g., "Get yours now" vs. "Learn more").
+* Nature Air, a Costa Rican domestic airline, successfully increased conversions by 591% by adding a prominently placed "book now" button with simple design and clear instructions.
+
+Tools and Resources:
+* HubSpot offers a free Customer Relationship Management (CRM) platform for scaling companies to manage prospects and facilitate understanding reports.
+* HubSpot provides an all-inclusive plan for e-commerce businesses to track sales and conversion rates, including templates for marketing and sales as well as a go-to-market plan.
+* Consistency and dedication are key to noticing real gains in conversion rate optimization (CRO).
+
+Call to Action:
+* Viewers are encouraged to leave a like, subscribe for more tips, and share their thoughts in the comments section.
+
+=== All You Need To Know About Conversion Rate Optimization (CRO) for Ecommerce In 2022
+
+video::TNjQtO_IrX0[youtube,width=720,height=405]
+
+* The average global conversion rate for e-commerce retail is approximately 2.5%, but top e-commerce websites achieve over 11%.
+* Conversion Rate Optimization (CRO) can boost sales and revenue by improving the percentage of visitors who take a desired action on a web store.
+* CRO is crucial, similar to how SEO improves website visibility; CRO enhances conversions and sales.
+* Average conversion rates vary by region: around 1.8% in Europe, Middle East, and Asia, 2.6% in the US, and 4% in Great Britain.
+* Increasing the conversion rate from 2% to 3% equates to a 50% increase in conversions.
+* Five strategies for improving conversion rates:
+  1. **Improve Site Speed:**
+     ** A web store should load in under three seconds.
+     ** Optimize images without compromising quality, using formats like JPEG for photos and SVG for logos.
+     ** Compress images to reduce file size while maintaining quality.
+     ** Be selective with plugins and scripts.
+  2. **Easy Navigation and Categories:**
+     ** Simplify the store's navigation to help users find products quickly.
+     ** Structure categories and filters from broad to narrow options.
+     ** Include intuitive categories such as 'most purchased', 'highest rated', or 'under $100'.
+  3. **Include User-Generated Content (UGC):**
+     ** Use UGC for marketing to enhance authenticity and peer recommendations, which 84% of consumers trust over other advertising types.
+     ** Encourage UGC through campaigns, incentives, or by simply asking customers.
+  4. **Improve Checkout Experience:**
+     ** Address high drop-off rates at checkout with a smoother process.
+     ** Offer multiple payment options, use trust signals, and simplify forms.
+     ** Avoid forcing account creation during checkout.
+  5. **Cross-Selling, Upselling, and Downselling:**
+     ** Use cross-selling techniques like 'related items' or 'frequently bought together'.
+     ** Upsell by offering premium options or showcasing other variations.
+     ** Downsell by suggesting basic options, lower quantities, or less expensive alternatives to build customer trust.
+
+* Conversion rate is calculated by dividing the total number of conversions by the total number of sessions, multiplied by 100 to get a percentage.
+* A/B testing is recommended to gauge the performance of CRO tactics applied, with metrics set to track progress.
+
+
+=== Increase Your Conversion Rate By Adding This ONE Page to Your Website
+
+video::WktIWzpeMis[youtube,width=720,height=405]
+
+* If you're experiencing low conversion rates on your website, a single, strategic piece of content could make a difference.
+* Adding a pre-sell article to the middle of your marketing funnel can drastically improve conversions regardless of what you're selling.
+* This approach is a time-tested method used by master marketers to educate and persuade potential customers.
+* Instead of sending prospects straight to a sales page, the pre-sell article educates them first, helping to build a desire for the product or service.
+* An example given is that of an event planner writing a pre-sell article about planning company holiday parties, providing value while implicitly suggesting the benefits of hiring a professional.
+* The article should end with sales elements like benefits, testimonials, and a call-to-action (CTA).
+* Once the pre-sell article is crafted, you can direct paid ads or organic traffic to it, either as an alternative or in addition to your standard sales pages.
+* Running traffic to both the article and sales pages caters to different audience segments, scaling your reach.
+* The title of the pre-sell article is crucial for attracting readers; it should be catchy and compelling.
+* For help with creating effective titles, one can refer to a suggested video that offers proven title formulas to increase traffic.
+
+=== 15 Product Page Optimization Tips to Improve Conversion Rates
+
+video::_E9cvmnOQ10[youtube,width=720,height=405]
+
+* Anton Chaley hosts the eCommerce Lifestyle podcast for eCommerce store owners looking to increase revenue, automate operations, and become leaders in their niche. The podcast is available on various platforms, including Apple Podcasts and Spotify.
+* He advises subscribing to the audio version for notifications about new episodes released every Monday and Thursday.
+* The episode discussed elaborates on a previous one about setting SMART goals for eCommerce stores, focusing on achieving at least a 2.5% conversion rate from qualified traffic and emphasizing quality traffic.
+* The episode shares 15 tips to optimize your store for conversions, emphasizing speed as key since slow loading can drive potential customers away. Use Google's PageSpeed Insights to check site speed.
+* Other tips include:
+  ** Having a sticky header bar with urgent offers.
+  ** Keeping logos small and clean.
+  ** Displaying a phone number in the header for trust.
+  ** Simplifying navigation menus.
+  ** Optimizing product images and showing multiple angles and details.
+  ** Using strikethrough pricing to show discounts.
+  ** Indicating limited stock numbers when applicable.
+  ** Show estimated arrival dates.
+  ** Incorporating customer reviews.
+  ** Employing tabbed product descriptions for easy navigation.
+  ** Including bonus offers to incentivize purchases.
+  ** Enabling product Q&As on pages.
+  ** Using live chat for immediate customer service.
+* The podcast emphasizes that these changes will increase sales and conversion rates.
+* For those new to eCommerce, Anton suggests visiting dropshipwebinar.com for a free two-and-a-half-hour training that covers his approach to building successful online stores.
+
+=== How To Increase Conversion Rate On Shopify (In JUST 24H!)
+
+video::oFCvlnKJ2HM[youtube,width=720,height=405]
+
+* The presenter aims to help Shopify store owners increase their conversion rates within 24 to 48 hours.
+* Many stores have insufficient landing pages lacking copy, social proof, or a clear understanding of what customers want.
+* Store owners often struggle with selling high-ticket or mid-ticket items, mainly due to ineffective product pages that have minimal copy, a few features, and limited reviews.
+* The video introduces the use of Zipify Pages Builder, a Shopify app that helps create custom landing pages for better conversions. The app offers a free 14-day trial, followed by a monthly fee of $67.
+* The presenter emphasizes the importance of a well-constructed offer, including custom landing pages, tailored copy, incentives, free gifts, and a clear payment plan like Klarna's pay-over-time option.
+* The new landing page for a client included enticing elements like a discount, free shipping, clear images showing the features of the product, testimonials for social proof, and targeting specific customer demographics.
+* Demonstrating the product's utility with appropriate images (e.g., a mother using the product) aligns with the target demographic, adding authenticity and relevance.
+* Multiple price reinforcements are suggested throughout the landing page, combined with social proof and an opportunity for increasing the average order value (AOV) by suggesting additional purchases.
+* The custom landing page is designed to lead the customer straight to checkout with a clear and directed path to purchase.
+* The video suggests offering various product options and purchase incentives like free gifts and bulk purchase discounts to boost AOV.
+* Testimonials, FAQs, and detailed descriptions of features and benefits are recommended to alleviate customer concerns and build trust.
+* The presenter recommends using custom graphics and technology explanations to differentiate products and pique interest.
+* For those who either cannot or do not want to create their own customized landing pages, the presenter offers his team's services to build and manage the pages and run ads to scale the business.
+* To find someone to build a Zipify landing page at an affordable rate, the presenter suggests using platforms like Fiverr to hire a professional.
+* Finally, the presenter encourages viewers to either implement the presented strategies or engage his team for assistance by booking a call through a link in the video description.
+
+=== 7 Ways To Boost eCommerce Conversion Rate (Part 1)
+
+video::czFLy0xIVJ0[youtube,width=720,height=405]
+
+* The video is aimed at websites with a conversion rate of less than five percent and promises seven tips and strategies for improvement.
+* It covers practical use of certain tools to extract actionable insights.
+* The presenter promises to reveal their favorite tip at the end.
+
+1. **Identify poor messaging on landing pages:**
+   ** Landing pages are the first pages a visitor sees.
+   ** Use Bounce Rate to identify messaging issues; a high bounce rate indicates a problem.
+   ** Bounce Rate Definition: The percentage of visitors who leave after viewing only the landing page.
+   ** Google Analytics can reveal your top landing pages and their bounce rates.
+   ** For e-commerce, a bounce rate of 40% or higher is generally too high.
+   ** Improve headlines by mixing functional with emotional benefits discovered through customer interviews.
+
+2. **Identify problem areas on bottom-of-the-funnel pages:**
+   ** These are pages where purchase decisions are made, like cart and checkout pages.
+   ** Use analytics to measure cart abandonment rate and checkout abandonment rate.
+   ** A high rate indicates issues with the purchase process.
+   ** Common issues include high prices, technical problems, or needing a discount code.
+   ** Conduct user interviews to understand customer struggles during the purchase process.
+
+3. **Identifying leaky pages on your website:**
+   ** Use Exit Rate to identify struggling pages.
+   ** Exit Rate Definition: The percentage of visitors who leave a site from a particular page, after possibly interacting with other pages.
+   ** A high exit rate on category/product pages (20% or higher for category, 30% for product) could reveal issues with page design or information layout.
+
+The actual steps to fix identified issues include improving page design, messaging, creating better headlines, and addressing other specific technical or usability issues found in the cart or checkout processes. The actual implementation of these fixes would likely require a website audit and changes based on data insights from tools like Google Analytics.
+
+The remaining four tips and the presenter’s favorite tip for improving site conversion rates are teased for part two of the video, which viewers are prompted to watch by clicking on a link. The presenter encourages viewers to subscribe, like, and comment on the video.
+
+=== Conversion Rate Optimization (CRO) - Driving more sales systematically
+
+video::xDzRgthWDng[youtube,width=720,height=405]
+
+* Altering a website without A/B testing can result in fluctuating conversion rates rather than consistent improvement.
+* A/B split tests help brands avoid costly mistakes by optimizing website traffic effectively.
+* Businesses suited for A/B testing should generate at least $250,000 per month in revenue and have around or above 200,000 monthly website visitors for meaningful results.
+* Hiring established conversion rate optimization (CRO) agencies can cost between $3,000 to $15,000 per month.
+* Use online calculators to determine sample size needed for A/B testing. For a 5% uplift on a 5% conversion rate, you'd need 120,000 visitors per variant (240,000 total for the test).
+* Common mistakes in A/B testing:
+  ** Testing with insufficient traffic.
+  ** Short test durations. Tests should run for at least two weeks to account for variables like weekdays and weather.
+  ** Changing too many elements at once, making it hard to identify what caused the change in conversion rate.
+  ** Assuming what works for one site will work for another. It's vital to conduct your own tests.
+* Prioritize experiments based on customer data and behaviors.
+* Design experiments using the framework: If X is done, then Y will happen because of Z, which helps articulate a test hypothesis clearly.
+* Reputable agencies can assist with data analysis and proposing experiments.
+* If seeking agency help, use the typeform link in the video description for recommendations.
+* Engage with professionals through consultations or leave specific questions in comments for further clarification.
+
+Example of using the framework:
+
+* "If we make our primary calls to action look consistent, then the conversion rate will increase because the user is subconsciously guided to the next step due to the context-dependent memory effect."
+
+=== Conversion Rate Optimization: Insider Growth Hacks
+
+video::U232Jsuknm4[youtube,width=720,height=405]
+
+* Focus on data capture, on-site personalization, and maximizing visitors' website experiences
+
+* **Optimizing Lead Capture:**
+  ** Capture emails by targeting visitors based on referral sources (e.g. from social media or organic search)
+  ** Create engaging experiences, such as Spin to Win or mystery reveals, to encourage sign-ups
+
+* **Increasing Average Order Value (AOV):**
+  ** Use upsell and cross-sell strategies at checkout
+  ** Offer bundling or free shipping incentives for additional purchases
+  ** Tailor offers based on visitor's behavior and history using Justuno’s AI
+  ** Leverage past purchase data for personalized product recommendations
+
+* **Growing SMS Lists:**
+  ** Create a two-step form for capturing both email and phone numbers without overwhelming the visitor
+  ** Use mobile-specific messages like "Tap to Text" for direct communication
+  ** Offer unique and valuable incentives for SMS subscriptions
+
+* **Actionable Recommendations:**
+  ** Get third-party audits for objective evaluation of strategy
+  ** Avoid spamming: show messages at the right time
+  ** Be memorable and unique in campaigns
+  ** Use dynamic content for personalization
+  ** Optimize messaging for different devices
+  ** Create diverse audience segments for targeted campaigns
+  ** Continuously test strategies and dive deep into data analysis
+
+=== 7 Simple Tips to Increase Website Conversions
+
+video::IRhetvk6dr8[youtube,width=720,height=405]
+
+* Tip #1: Have a Strong Call to Action (CTA)
+  ** Use a clear and intentional CTA in the hero section
+  ** Avoid multiple CTAs; focus on one primary action for users to take
+  ** Examples: "Book a Call" or "Start a Free Trial"
+
+* Tip #2: Use Assertive, Not Passive CTAs
+  ** Use direct language ("Speak with an Expert," not "Learn More")
+  ** Choose assertive CTAs to guide users on what action to take next
+
+* Tip #3: Create a Results-Based Heading
+  ** Highlight the benefits for the user in the website's main heading
+  ** Focus on the challenges or results your clients want to achieve
+  ** Show transformations or outcomes rather than just services provided
+
+* Tip #4: Include a Founder's Note on the Homepage
+  ** Personalize the website with a note or message from the founder
+  ** Use images and a personal blurb to establish trust and connection with users
+
+* Tip #5: Clearly Communicate What, Who, and How
+  ** Describe what you do (services), who you do it for (target audience), and how you do it (process)
+  ** Keep the information concise and invite users to explore more if interested
+
+* Tip #6: Display Social Proof
+  ** Feature testimonials or reviews on the homepage
+  ** Use a moderate number and keep them brief; include client images when possible
+  ** Testimonials should ideally include star ratings, quotes, and be easily noticeable
+
+* Tip #7: Have a Footer Call to Action
+  ** Don't neglect the bottom of the homepage; include a final CTA
+  ** Use persuasive language and invite users to take a specific action ("Get a Quote")
+
+* Bonus Tip: Create a Funnel for Different Customer Types
+  ** Address customers at different stages or with varying needs
+  ** Funnel them to appropriate sections or pages that cater to their specific interests
+
+The above tips are part of a broader teaching module in the video creator's website design course, which aims to help viewers build high-converting websites.
+
+[[about-koi]]
+== About Koi
+
+

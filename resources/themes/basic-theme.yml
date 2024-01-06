@@ -1,0 +1,8 @@
+extends: default
+role:
+  shopify:
+    font-color: #000000
+    background-color: #121212
+    border-color: #191919
+    border-radius: 3
+    font-color: #FF0000

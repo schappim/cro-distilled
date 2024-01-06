@@ -1,0 +1,6 @@
+extends: default
+role:
+  shopify:
+    font-style: italic
+    text-decoration: line-through
+    font-color: #FF0000
