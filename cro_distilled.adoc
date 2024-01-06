@@ -5,13 +5,11 @@
 :icontype: svg
 :toc:
 
-Marcus Schappi <marcus@chickcom.com>
-
 <<<
 
 == About
 
-👋 Hi I'm Marcus, I'm an ecommerce merchant like you, and run several Shopify stores.
+Hi I'm Marcus, I'm an ecommerce merchant like you, and run several Shopify stores.
 My team and I built link:https:/www.koi.app?ref=conversations[Koi.app] to help us manage our stores and we're now making it available to other merchants.
 
 This guide is for ecommerce merchants who want to increase their conversion rates and sales.
